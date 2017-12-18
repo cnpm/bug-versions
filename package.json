@@ -1,0 +1,32 @@
+{
+  "name": "bug-versions",
+  "version": "1.0.0",
+  "description": "collect all bug versions on npm package",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnpm/bug-versions.git"
+  },
+  "author": "fengmk2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnpm/bug-versions/issues"
+  },
+  "homepage": "https://github.com/cnpm/bug-versions#readme",
+  "config": {
+    "bug-versions": {
+      "is-my-json-valid": {
+        "2.17.0": {
+          "version": "2.17.1",
+          "reason": "see https://github.com/mafintosh/is-my-json-valid/issues/149"
+        }
+      }
+    }
+  }
+}
