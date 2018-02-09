@@ -1,4 +1,10 @@
 
+1.1.0 / 2018-02-09
+==================
+
+**features**
+  * [[`a4ed15a`](http://github.com/cnpm/bug-versions/commit/a4ed15a80d941c404a8af5764b9e75b937aa1208)] - feat: skip uglify-es@3.3.10 (#2) (Randy <<randypriv@gmail.com>>)
+
 1.0.1 / 2017-12-25
 ==================
 
