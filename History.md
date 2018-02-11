@@ -1,4 +1,10 @@
 
+1.2.0 / 2018-02-11
+==================
+
+**features**
+  * [[`bc6c873`](http://github.com/cnpm/bug-versions/commit/bc6c87300d17320f67c13c31547a4a7b00f5bbf1)] - feat: ignore base62 1.2.5 post-install (fengmk2 <<fengmk2@gmail.com>>)
+
 1.1.0 / 2018-02-09
 ==================
 
