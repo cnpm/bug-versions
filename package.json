@@ -47,7 +47,7 @@
       },
       "request": {
         "2.84.0": {
-          "version": "2.83.0",
+          "version": "2.85.0",
           "reason": "https://github.com/cnpm/bug-versions/issues/3"
         }
       }
