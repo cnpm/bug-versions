@@ -44,6 +44,12 @@
           "version": "1.2.1",
           "reason": "ignore post-install script https://github.com/andrew/base62.js/commits/master"
         }
+      },
+      "request": {
+        "2.84.0": {
+          "version": "2.85.0",
+          "reason": "https://github.com/cnpm/bug-versions/issues/3"
+        }
       }
     }
   }
