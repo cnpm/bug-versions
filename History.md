@@ -1,4 +1,10 @@
 
+1.3.0 / 2018-03-13
+==================
+
+**fixes**
+  * [[`e65f8a0`](http://github.com/cnpm/bug-versions/commit/e65f8a0972e60a0a3c103c126c770168b04d3253)] - fix: forbid request@2.84.0 (#4) (Haoliang Gao <<sakura9515@gmail.com>>)
+
 1.2.0 / 2018-02-11
 ==================
 
