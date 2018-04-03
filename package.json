@@ -50,6 +50,16 @@
           "version": "2.85.0",
           "reason": "https://github.com/cnpm/bug-versions/issues/3"
         }
+      },
+      "ali-oss": {
+        "4.14.0": {
+          "version": "4.13.2",
+          "reason": "https://github.com/ali-sdk/ali-oss/pull/382"
+        },
+        "4.14.1": {
+          "version": "4.13.2",
+          "reason": "https://github.com/ali-sdk/ali-oss/pull/382"
+        }
       }
     }
   }
