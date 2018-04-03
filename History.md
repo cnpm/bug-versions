@@ -1,4 +1,10 @@
 
+1.4.0 / 2018-04-03
+==================
+
+**others**
+  * [[`fdc4184`](http://github.com/cnpm/bug-versions/commit/fdc418410d7a07c2f96a40bce542fb105441415f)] - Add ali-oss bug version (#5) (Haoliang Gao <<sakura9515@gmail.com>>)
+
 1.3.0 / 2018-03-13
 ==================
 
