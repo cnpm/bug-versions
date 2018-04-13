@@ -1,5 +1,5 @@
 {
-  "name": "uglify-bug-versions",
+  "name": "es5-imcompatible-versions",
   "version": "0.1.0",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/umijs/uglify-bug-versions.git"
+    "url": "git+https://github.com/umijs/es5-imcompatible-versions.git"
   },
   "author": "chencheng <sorrycc@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/umijs/uglify-bug-versions/issues"
+    "url": "https://github.com/umijs/es5-imcompatible-versions/issues"
   },
-  "homepage": "https://github.com/umijs/uglify-bug-versions#readme",
+  "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
-    "uglify-bug-versions": {
+    "es5-imcompatible-versions": {
       "query-string": {
         "^6.0.0": {
           "version": "^6.0.0",

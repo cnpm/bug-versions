@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./package.json').config['uglify-bug-versions'];
+module.exports = require('./package.json').config['es5-imcompatible-versions'];
