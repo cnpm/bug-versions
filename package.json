@@ -1,7 +1,7 @@
 {
-  "name": "bug-versions",
-  "version": "1.4.0",
-  "description": "collect all bug versions on npm package",
+  "name": "uglify-bug-versions",
+  "version": "0.1.0",
+  "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
     "index.js"
@@ -11,54 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnpm/bug-versions.git"
+    "url": "git+https://github.com/umijs/uglify-bug-versions.git"
   },
-  "author": "fengmk2",
+  "author": "chencheng <sorrycc@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cnpm/bug-versions/issues"
+    "url": "https://github.com/umijs/uglify-bug-versions/issues"
   },
-  "homepage": "https://github.com/cnpm/bug-versions#readme",
+  "homepage": "https://github.com/umijs/uglify-bug-versions#readme",
   "config": {
-    "bug-versions": {
-      "is-my-json-valid": {
-        "2.17.0": {
-          "version": "2.17.1",
-          "reason": "see https://github.com/mafintosh/is-my-json-valid/issues/149"
-        }
-      },
-      "babel-eslint": {
-        "8.1.0": {
-          "version": "8.1.1",
-          "reason": "see https://github.com/eslint/eslint/issues/9767"
-        }
-      },
-      "uglify-es": {
-        "3.3.10": {
-          "version": "3.3.9",
-          "reason": "see https://github.com/mishoo/UglifyJS2/issues/2896"
-        }
-      },
-      "base62": {
-        "1.2.5": {
-          "version": "1.2.1",
-          "reason": "ignore post-install script https://github.com/andrew/base62.js/commits/master"
-        }
-      },
-      "request": {
-        "2.84.0": {
-          "version": "2.85.0",
-          "reason": "https://github.com/cnpm/bug-versions/issues/3"
-        }
-      },
-      "ali-oss": {
-        "4.14.0": {
-          "version": "4.13.2",
-          "reason": "https://github.com/ali-sdk/ali-oss/pull/382"
-        },
-        "4.14.1": {
-          "version": "4.13.2",
-          "reason": "https://github.com/ali-sdk/ali-oss/pull/382"
+    "uglify-bug-versions": {
+      "query-string": {
+        "^6.0.0": {
+          "version": "^6.0.0",
+          "reason": "see https://github.com/sindresorhus/query-string/blob/597f14a/index.js#L8:31"
         }
       }
     }
