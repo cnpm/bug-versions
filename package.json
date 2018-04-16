@@ -26,6 +26,12 @@
           "version": "^6.0.0",
           "reason": "see https://github.com/sindresorhus/query-string/blob/597f14a/index.js#L8:31"
         }
+      },
+      "escape-goat": {
+        "*": {
+          "version": "*",
+          "reason": "see https://github.com/sindresorhus/escape-goat/blob/v1.0.0/index.js#L19"
+        }
       }
     }
   }
