@@ -32,6 +32,12 @@
           "version": "*",
           "reason": "see https://github.com/sindresorhus/escape-goat/blob/v1.0.0/index.js#L19"
         }
+      },
+      "get-value": {
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "https://github.com/jonschlinkert/get-value/blob/3.0.1/index.js#L36"
+        }
       }
     }
   }
