@@ -38,6 +38,12 @@
           "version": "^3.0.0",
           "reason": "https://github.com/jonschlinkert/get-value/blob/3.0.1/index.js#L36"
         }
+      },
+      "strict-uri-encode": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "https://github.com/kevva/strict-uri-encode/blob/v2.0.0/index.js#L2"
+        }
       }
     }
   }
