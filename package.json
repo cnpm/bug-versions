@@ -44,6 +44,12 @@
           "version": "^2.0.0",
           "reason": "https://github.com/kevva/strict-uri-encode/blob/v2.0.0/index.js#L2"
         }
+      },
+      "gl-matrix": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "https://github.com/toji/gl-matrix/blob/v2.4.0/src/gl-matrix/common.js#L27"
+        }
       }
     }
   }
