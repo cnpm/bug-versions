@@ -1,9 +1,21 @@
 sudo: false
 language: node_js
 node_js:
-  - '8'
-  - '9'
+- '9'
 install:
-  - echo "skip install"
+- echo "skip install"
 script:
-  - npm test
+- npm test
+- git checkout master
+- npm version patch -m "Bump version [ci skip]"
+- git remote add upstream https://${GH_TOKEN}@github.com/umijs/es5-imcompatible-versions.git
+- git config --global user.email "travis@travis-ci.org"
+- git config --global user.name "Travis CI"
+- git push upstream master
+deploy:
+  provider: npm
+  email: yesmeck@gmail.com
+  api_key:
+    secure: WCUULXZ8yHzYTE3npCwCSZeoYOKxiXuzoRjWm2WfkOXdmHGoTVmxtZVe7y4p42dyoqRfd5mRM95PKOQPdg9Ebr7KaILoclfw3JfwEZhffQxs8nEww9nx+qn3qNIywqgOd+gVcwPbKkgll7zX0nJJuDgyqiZo3P3jGiHZ8hURyheGKaLZPhAHBXls0Wx7JG34AU47xKg86EdjtYfiWvASf7/hC8aaLPk9iGSEkxFZ9yyc9UXhf4/Lw7bBuO2LeX0FaNDGFwI+bPyA1HxeQhySXVru94uQf7OJ1nQK3Y/gcqhYTqG4rfWA6KMjxNpHF1qvmZ8Acf8lb2Wq4rSzhIh6Ydg1V9HPEHSEHvccfAPPv3P6eIxzebkH5FJmQpHKqaywGLaK+EyQyjczu1TYpebip4VjoVzeTREEv2hnib72//Hp5ohSkD40ymXtu3+y/d7rERTx7JyJmo98BpOLCSzYSbqBVUGoaj5aBwTAWFjFBvpxz3rESUQ8AfO2ylz1ickviOKOx4Dqk60QTW1/SWcPdRyE8YkQOLR906ih04F6VTxPjSyEopf2XZYXCItRixV44iCtKNUtgnAH6somtkCOKlHlxyr+wxBx6A0pFQ0rOqDtT7hUu8L1Gw88oHjMue+ObqQAG9X7qkcqK0wIVtSBLg772WNY3aLs41f0tIQJdAk=
+  on:
+    repo: umijs/es5-imcompatible-versions
