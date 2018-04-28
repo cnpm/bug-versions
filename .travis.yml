@@ -9,8 +9,8 @@ script:
 - git checkout master
 - npm version patch -m "Bump version [ci skip]"
 - git remote add upstream https://${GH_TOKEN}@github.com/umijs/es5-imcompatible-versions.git
-- git config --global user.email "travis@travis-ci.org"
-- git config --global user.name "Travis CI"
+- git config --global user.email "deploy@travis-ci.org"
+- git config --global user.name "Deployment Bot (from Travis CI)"
 - git push upstream master --tags
 deploy:
   provider: npm
