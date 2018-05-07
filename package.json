@@ -60,6 +60,12 @@
           "version": "4.13.2",
           "reason": "https://github.com/ali-sdk/ali-oss/pull/382"
         }
+      },
+      "egg-core": {
+        "3.21.0": {
+          "version": "3.20.3",
+          "reason": "https://github.com/cnpm/bug-versions/issues/6"
+        }
       }
     }
   }
