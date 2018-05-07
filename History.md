@@ -1,4 +1,10 @@
 
+1.4.1 / 2018-05-07
+==================
+
+**fixes**
+  * [[`cf17282`](http://github.com/cnpm/bug-versions/commit/cf172820369ce8feab881b8c676911cf3a42300b)] - fix: egg-core@3.21.0 make jar2proxy failed (#7) (zōng yǔ <<gxcsoccer@users.noreply.github.com>>)
+
 1.4.0 / 2018-04-03
 ==================
 
