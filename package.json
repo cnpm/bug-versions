@@ -69,6 +69,7 @@
       },
       "accord": {
         "0.28.0": {
+          "version": "0.28.0",
           "dependencies": {
             "less": "^2.7.0"
           },
