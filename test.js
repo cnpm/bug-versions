@@ -13,8 +13,14 @@ for (const name in bugVersions) {
     versionCount++;
     const item = versions[version];
     assert(item);
-    assert(item.version);
-    assert(typeof item.version === 'string');
+    assert(item.version || item.dependencies);
+    if (item.version) {
+      assert(typeof item.version === 'string');
+    } else if (item.dependencies) {
+      assert(typeof item.dependencies === 'object');
+      assert(Object.keys(item.dependencies).length > 0);
+    }
+
     assert(item.reason)
     assert(typeof item.reason === 'string');
   }
