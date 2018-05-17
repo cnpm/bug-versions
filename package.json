@@ -66,6 +66,14 @@
           "version": "3.20.3",
           "reason": "https://github.com/cnpm/bug-versions/issues/6"
         }
+      },
+      "accord": {
+        "0.28.0": {
+          "dependencies": {
+            "less": "^2.7.0"
+          },
+          "reason": "accord missing 'less' dependency"
+        }
       }
     }
   }
