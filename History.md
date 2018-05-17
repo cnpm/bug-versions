@@ -1,4 +1,13 @@
 
+1.5.0 / 2018-05-17
+==================
+
+**features**
+  * [[`b036e3c`](http://github.com/cnpm/bug-versions/commit/b036e3cb122d24b928a3bfdfd1342ddc23a0c08a)] - feat: support dependencies override (#8) (fengmk2 <<fengmk2@gmail.com>>)
+
+**fixes**
+  * [[`0d3a38f`](http://github.com/cnpm/bug-versions/commit/0d3a38f36ea7cd3981041cd8eab7950959671ba6)] - fix: add missing version property for compatibility reason (fengmk2 <<fengmk2@gmail.com>>)
+
 1.4.1 / 2018-05-07
 ==================
 
