@@ -77,8 +77,8 @@
         }
       },
       "nanomatch": {
-        "1.2.11": {
-          "version": "1.2.9",
+        "1.2.9": {
+          "version": "1.2.11",
           "reason": "https://github.com/micromatch/nanomatch/issues/15"
         }
       }
