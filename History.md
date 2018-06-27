@@ -1,4 +1,10 @@
 
+1.6.0 / 2018-06-27
+==================
+
+**fixes**
+  * [[`2bd952d`](http://github.com/cnpm/bug-versions/commit/2bd952d4dea4c1ea7082180af7713af1955ebe5a)] - fix: nanomatch@1.2.11 (#9) (Haoliang Gao <<sakura9515@gmail.com>>)
+
 1.5.0 / 2018-05-17
 ==================
 
