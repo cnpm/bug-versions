@@ -75,6 +75,12 @@
           },
           "reason": "accord missing 'less' dependency"
         }
+      },
+      "nanomatch": {
+        "1.2.10": {
+          "version": "1.2.11",
+          "reason": "https://github.com/micromatch/nanomatch/issues/15"
+        }
       }
     }
   }
