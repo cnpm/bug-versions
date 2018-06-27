@@ -1,4 +1,10 @@
 
+1.6.1 / 2018-06-27
+==================
+
+**fixes**
+  * [[`48f656e`](http://github.com/cnpm/bug-versions/commit/48f656efd03cd71ff6a0ab902807c4d228e19125)] - fix: should use nanomatch 1.2.9 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.6.0 / 2018-06-27
 ==================
 
