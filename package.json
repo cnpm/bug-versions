@@ -39,6 +39,12 @@
           "reason": "https://github.com/jonschlinkert/get-value/blob/3.0.1/index.js#L36"
         }
       },
+      "set-value": {
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "https://github.com/jonschlinkert/set-value/blob/master/package.json#L24"
+        }
+      },
       "strict-uri-encode": {
         "^2.0.0": {
           "version": "^2.0.0",
