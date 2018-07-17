@@ -62,6 +62,18 @@
           "version": "^2.0.2",
           "reason": "see https://github.com/antvis/g6/blob/master/plugins/tool.minimap/index.js#L18"
         }
+      },
+      "cgbi-to-png": {
+        "^1.0.7": {
+          "version": "^1.0.7",
+          "reason": "https://github.com/jakubknejzlik/cgbi-to-png/blob/master/index.js#L51"
+        }
+      },
+      "crc": {
+        "^3.7.0": {
+          "version": "^3.7.0",
+          "reason": "https://github.com/alexgorbatchev/node-crc/blob/master/crc1.js#L8"
+        }
       }
     }
   }
