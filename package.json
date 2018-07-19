@@ -74,6 +74,12 @@
           "version": "^3.7.0",
           "reason": "https://github.com/alexgorbatchev/node-crc/blob/master/crc1.js#L8"
         }
+      },
+      "csv-parse": {
+        "^2.5.0": {
+          "version": "^2.5.0",
+          "reason": "https://github.com/adaltas/node-csv-parse/blob/master/lib/index.js#L33"
+        }
       }
     }
   }
