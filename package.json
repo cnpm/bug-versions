@@ -81,6 +81,16 @@
           "version": "1.2.9",
           "reason": "https://github.com/micromatch/nanomatch/issues/15"
         }
+      },
+      "uws": {
+        "99.0.0": {
+          "version": "10.148.1",
+          "reason": "https://www.reddit.com/r/node/comments/91kgte/uws_has_been_deprecated/e2yym4i/"
+        },
+        "10.148.2": {
+          "version": "10.148.1",
+          "reason": "https://www.reddit.com/r/node/comments/91kgte/uws_has_been_deprecated/e2yym4i/"
+        }
       }
     }
   }
