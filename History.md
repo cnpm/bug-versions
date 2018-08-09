@@ -1,4 +1,10 @@
 
+1.7.0 / 2018-08-09
+==================
+
+**features**
+  * [[`a32e00f`](http://github.com/cnpm/bug-versions/commit/a32e00f0e54c4260cb0affd415c301646cec9775)] - feat: use uws@10.148.1 for 99.0.0 and 10.148.2 (#12) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.6.1 / 2018-06-27
 ==================
 
