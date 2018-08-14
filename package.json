@@ -80,6 +80,12 @@
           "version": "^2.5.0",
           "reason": "https://github.com/adaltas/node-csv-parse/blob/master/lib/index.js#L33"
         }
+      },
+      "difference-json": {
+        "^1.0.6": {
+          "version": "^1.0.6",
+          "reason": "https://github.com/ansteh/difference-json/blob/master/lib/index.js#L4"
+        }
       }
     }
   }
