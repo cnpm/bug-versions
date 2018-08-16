@@ -14,6 +14,6 @@
 [download-image]: https://img.shields.io/npm/dm/es5-imcompatible-versions.svg?style=flat-square
 [download-url]: https://npmjs.org/package/es5-imcompatible-versions
 
-Collect all uglify bug versions on npm package.
+Collect all uglifyjs bug versions on npm package.
 
 Why is this package existed: https://github.com/sorrycc/blog/issues/68
