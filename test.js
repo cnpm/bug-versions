@@ -27,3 +27,9 @@ for (const name in bugVersions) {
 }
 
 console.log('Total: %d bug pkgs and %d bug versions', pkgCount, versionCount);
+console.log('');
+
+const pkg = require('./package');
+console.log('unsafe-node-versions: %s', JSON.stringify(pkg.config['unsafe-node-versions'], null, 2));
+console.log('');
+console.log('unsafe-alinode-versions: %s', JSON.stringify(pkg.config['unsafe-alinode-versions'], null, 2));
