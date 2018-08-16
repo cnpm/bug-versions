@@ -86,6 +86,12 @@
           "version": "^1.0.6",
           "reason": "https://github.com/ansteh/difference-json/blob/master/lib/index.js#L4"
         }
+      },
+      "striptags": {
+        "^3.1.1": {
+          "version": "^3.1.1",
+          "reason": "https://github.com/ericnorris/striptags/blob/master/src/striptags.js#L14"
+        }
       }
     }
   }
