@@ -1,4 +1,10 @@
 
+1.8.0 / 2018-08-16
+==================
+
+**features**
+  * [[`032e2b2`](http://github.com/cnpm/bug-versions/commit/032e2b273f83660b8b059839c8efb05818434d1f)] - feat: support unsafe-node-versions and unsafe-alinode-versions (#13) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.7.0 / 2018-08-09
 ==================
 
