@@ -1,4 +1,10 @@
 
+1.9.0 / 2018-08-21
+==================
+
+**features**
+  * [[`4853eba`](http://github.com/cnpm/bug-versions/commit/4853eba1056504485c26e4b3197fff091b2a0105)] - feat: use alinode@3.11.7 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.8.0 / 2018-08-16
 ==================
 
