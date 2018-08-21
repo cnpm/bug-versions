@@ -55,9 +55,9 @@
         "version": "2.5.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/august-2018-security-releases/"
       },
-      ">= 3.0.0 < 3.11.5 || =3.11.6": {
-        "version": "3.11.5",
-        "reason": "https://nodejs.org/en/blog/vulnerability/august-2018-security-releases/"
+      ">= 3.0.0 < 3.11.7": {
+        "version": "3.11.7",
+        "reason": "https://help.aliyun.com/document_detail/60811.html"
       },
       ">= 4.0.0 < 4.2.2": {
         "version": "4.2.2",
