@@ -21,6 +21,12 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+      "ext-name": {
+        "^5.0.0": {
+          "version": "^5.0.0",
+          "reason": "see https://github.com/kevva/ext-name/blob/master/index.js#L5"
+        }
+      },
       "camelcase": {
         "^4.0.0": {
           "version": "^4.0.0",
