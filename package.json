@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
-      "camelcase":{
+      "camelcase": {
         "^4.0.0": {
           "version": "^4.0.0",
           "reason": "see https://github.com/sindresorhus/camelcase/blob/master/index.js#L3"
