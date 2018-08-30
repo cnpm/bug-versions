@@ -1,4 +1,10 @@
 
+1.10.0 / 2018-08-30
+==================
+
+**fixes**
+  * [[`4c8b6a6`](http://github.com/cnpm/bug-versions/commit/4c8b6a64286471b55df8d7d27b1aee8a30974976)] - fix: node-deprecate break change (#15) (AngrySean <<xujihui1985@gmail.com>>)
+
 1.9.0 / 2018-08-21
 ==================
 
