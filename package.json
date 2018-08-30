@@ -135,6 +135,12 @@
           "version": "10.148.1",
           "reason": "https://www.reddit.com/r/node/comments/91kgte/uws_has_been_deprecated/e2yym4i/"
         }
+      },
+      "node-deprecate": {
+        "1.1.0": {
+          "version": "1.0.0",
+          "reason": "breaking change"
+        }
       }
     }
   }
