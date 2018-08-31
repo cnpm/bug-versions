@@ -21,6 +21,12 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+      "ityped": {
+        "^1.0.3": {
+          "version": "^1.0.3",
+          "reason": "see https://github.com/luisvinicius167/ityped/blob/master/src/index.js#L19"
+        }
+      },
       "ext-name": {
         "^5.0.0": {
           "version": "^5.0.0",
