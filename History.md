@@ -1,4 +1,10 @@
 
+1.10.2 / 2018-09-11
+==================
+
+**fixes**
+  * [[`ffaddc8`](http://github.com/cnpm/bug-versions/commit/ffaddc8cd1fdb5764e20a3546abf1359f6056277)] - fix: debug breaking change, change to 3.0.1 (#17) (AngrySean <<xujihui1985@gmail.com>>)
+
 1.10.1 / 2018-08-30
 ==================
 
