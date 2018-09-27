@@ -1,4 +1,10 @@
 
+1.11.0 / 2018-09-27
+==================
+
+**fixes**
+  * [[`7b24bd6`](http://github.com/cnpm/bug-versions/commit/7b24bd6e3c00c2d18c6d3b2b283ecec59b375d7b)] - fix: @nodelib/fs.stat missing index.js.map (#18) (killa <<killa123@126.com>>)
+
 1.10.2 / 2018-09-11
 ==================
 
