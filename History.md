@@ -1,4 +1,10 @@
 
+1.12.0 / 2018-10-19
+==================
+
+**fixes**
+  * [[`2ccde9f`](http://github.com/cnpm/bug-versions/commit/2ccde9fa9d18a5f2d040c1d6848c06939fb9b10e)] - fix: postcss-merge-longhand (#19) (Suyi <<thonatos@users.noreply.github.com>>)
+
 1.11.0 / 2018-09-27
 ==================
 
