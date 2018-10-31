@@ -1,4 +1,10 @@
 
+1.13.0 / 2018-10-31
+==================
+
+**fixes**
+  * [[`88ab9f9`](http://github.com/cnpm/bug-versions/commit/88ab9f9be395b264327cf700d74c35a87cc1e658)] - fix: cache-loader 1.2.3 => 1.2.2 (#20) (AngrySean <<xujihui1985@gmail.com>>)
+
 1.12.0 / 2018-10-19
 ==================
 
