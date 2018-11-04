@@ -122,6 +122,12 @@
           "version": "^3.1.1",
           "reason": "https://github.com/ericnorris/striptags/blob/master/src/striptags.js#L14"
         }
+      },
+      "autobind-decorator": {
+        "^2.2.0": {
+          "version": "^2.2.0",
+          "reason": "https://github.com/andreypopp/autobind-decorator/blob/master/src/index.js#L6 + https://github.com/andreypopp/autobind-decorator/blob/master/package.json#L6"
+        }
       }
     }
   }
