@@ -1,4 +1,10 @@
 
+1.14.0 / 2018-11-13
+==================
+
+**fixes**
+  * [[`38be603`](http://github.com/cnpm/bug-versions/commit/38be6038fd0ef2138c89d563acc28b7a1a770c24)] - fix: No matching version found for scheduler@^16.6.2 (#21) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.13.0 / 2018-10-31
 ==================
 
