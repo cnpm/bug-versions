@@ -1,4 +1,10 @@
 
+1.14.2 / 2018-11-13
+==================
+
+**fixes**
+  * [[`9906c79`](http://github.com/cnpm/bug-versions/commit/9906c792f9648da8b14ef4888c102f70242cf057)] - fix: react-dom@16.6.2 => 16.6.1 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.1 / 2018-11-13
 ==================
 
