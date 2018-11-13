@@ -172,9 +172,9 @@
           "reason": "https://github.com/facebook/react/issues/14208"
         }
       },
-      "scheduler": {
+      "react-dom": {
         "16.6.2": {
-          "version": "0.11.1",
+          "version": "16.6.1",
           "reason": "https://github.com/facebook/react/issues/14208"
         }
       }
