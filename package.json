@@ -177,6 +177,18 @@
           "version": "16.6.1",
           "reason": "https://github.com/facebook/react/issues/14208"
         }
+      },
+      "react-test-renderer": {
+        "16.6.2": {
+          "version": "16.6.1",
+          "reason": "https://github.com/facebook/react/issues/14208"
+        }
+      },
+      "react-art": {
+        "16.6.2": {
+          "version": "16.6.1",
+          "reason": "https://github.com/facebook/react/issues/14208"
+        }
       }
     }
   }
