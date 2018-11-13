@@ -1,4 +1,10 @@
 
+1.14.1 / 2018-11-13
+==================
+
+**fixes**
+  * [[`331f9b9`](http://github.com/cnpm/bug-versions/commit/331f9b92ecc3c32a0d4c8c66903f48d0627f8c41)] - fix: scheduler@16.6.2 => 0.11.1 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.0 / 2018-11-13
 ==================
 
