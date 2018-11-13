@@ -1,4 +1,10 @@
 
+1.14.3 / 2018-11-13
+==================
+
+**fixes**
+  * [[`e8831dd`](http://github.com/cnpm/bug-versions/commit/e8831dd67037190261144eda347c982d8e91d8cb)] - fix: react-test-renderer and react-art (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.2 / 2018-11-13
 ==================
 
