@@ -65,6 +65,16 @@
       }
     },
     "bug-versions": {
+      "@mdx-js/mdx": {
+        "0.16.1": {
+          "version": "0.16.0",
+          "reason": "see https://github.com/mdx-js/mdx/issues/322"
+        },
+        "0.16.2": {
+          "version": "0.16.0",
+          "reason": "see https://github.com/mdx-js/mdx/issues/322"
+        }
+      },
       "is-my-json-valid": {
         "2.17.0": {
           "version": "2.17.1",
