@@ -65,6 +65,16 @@
       }
     },
     "bug-versions": {
+      "@mdx-js/mdx": {
+        "0.16.1": {
+          "version": "0.16.0",
+          "reason": "0.16.1与0.16.2会导致@mdx-js/loader webpack编译的时候报错，阻塞型问题"
+        },
+        "0.16.2": {
+          "version": "0.16.0",
+          "reason": "0.16.1与0.16.2会导致@mdx-js/loader webpack编译的时候报错，阻塞型问题"
+        }
+      },
       "is-my-json-valid": {
         "2.17.0": {
           "version": "2.17.1",
