@@ -1,4 +1,10 @@
 
+1.15.0 / 2018-11-21
+==================
+
+**features**
+  * [[`da891e1`](http://github.com/cnpm/bug-versions/commit/da891e1fdad5d59fb9a654207b91bdd66dbacf7e)] - feat: add @mdx-js/mdx bug versions (#23) (Janry <<wangzhili56@126.com>>)
+
 1.14.3 / 2018-11-13
 ==================
 
