@@ -199,6 +199,12 @@
           "version": "16.6.1",
           "reason": "https://github.com/facebook/react/issues/14208"
         }
+      },
+      "ajv": {
+        "6.6.0": {
+          "version": "6.5.5",
+          "reason": "https://github.com/epoberezkin/ajv/issues/889"
+        }
       }
     }
   }
