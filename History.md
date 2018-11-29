@@ -1,4 +1,10 @@
 
+1.17.1 / 2018-11-30
+==================
+
+**fixes**
+  * [[`9a31a5a`](http://github.com/cnpm/bug-versions/commit/9a31a5af49df40e2fd7b23e80fd93641de22175f)] - fix: dont change node 8 on gcc problem (fengmk2 <<fengmk2@gmail.com>>)
+
 1.17.0 / 2018-11-29
 ==================
 
