@@ -1,4 +1,10 @@
 
+1.17.0 / 2018-11-29
+==================
+
+**features**
+  * [[`35075e0`](http://github.com/cnpm/bug-versions/commit/35075e013d7d06f6fd15d9787ab06251678a3531)] - feat: node security releases (#26) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.16.0 / 2018-11-29
 ==================
 
