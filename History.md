@@ -1,4 +1,10 @@
 
+1.17.2 / 2018-11-30
+==================
+
+**fixes**
+  * [[`4654cca`](http://github.com/cnpm/bug-versions/commit/4654ccaed43f9bfd57dd3fcc3c65212bdfbc7e30)] - fix: dont change alinode 3 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.17.1 / 2018-11-30
 ==================
 
