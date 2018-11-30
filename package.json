@@ -55,9 +55,9 @@
         "version": "1.10.0",
         "reason": "https://nodejs.org/en/blog/release/v4.9.1/"
       },
-      ">= 2.0.0 < 2.5.2": {
-        "version": "2.5.2",
-        "reason": "https://nodejs.org/en/blog/vulnerability/august-2018-security-releases/"
+      ">= 2.0.0 < 2.7.0": {
+        "version": "2.7.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
       ">= 3.0.0 < 3.13.0": {
         "version": "3.13.0",
