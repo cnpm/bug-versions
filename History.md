@@ -1,4 +1,10 @@
 
+1.17.4 / 2018-12-01
+==================
+
+**fixes**
+  * [[`ecf9515`](http://github.com/cnpm/bug-versions/commit/ecf95158abc290830cb46fba58745ba63db146a6)] - fix: november-2018-security-releases alinode to 2.7.0 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.17.3 / 2018-11-30
 ==================
 
