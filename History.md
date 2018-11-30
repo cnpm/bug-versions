@@ -1,4 +1,10 @@
 
+1.17.3 / 2018-11-30
+==================
+
+**fixes**
+  * [[`e405e91`](http://github.com/cnpm/bug-versions/commit/e405e91c7803968dccb13c80173ae96d67c108a5)] - fix: november-2018-security-releases (fengmk2 <<fengmk2@gmail.com>>)
+
 1.17.2 / 2018-11-30
 ==================
 
