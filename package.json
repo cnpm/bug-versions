@@ -134,6 +134,12 @@
           "version": "^11.1.1",
           "reason": "https://github.com/ckeditor/ckeditor5-build-decoupled-document/blob/bb711811538ea18df1b2ee0a8d93ea3c739af4b6/build/ckeditor.js#L5"
         }
+      },
+      "debug": {
+        "^4.1.0": {
+          "version": "^4.1.0",
+          "reason": "https://github.com/visionmedia/debug/blob/master/src/browser.js#L155"
+        }
       }
     }
   }
