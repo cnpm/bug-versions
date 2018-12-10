@@ -209,6 +209,16 @@
           "version": "6.5.5",
           "reason": "https://github.com/epoberezkin/ajv/issues/889"
         }
+      },
+      "vue": {
+        "2.5.19": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        },
+        "2.5.18": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        }
       }
     }
   }
