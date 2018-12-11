@@ -219,6 +219,26 @@
           "version": "2.5.17",
           "reason": "https://github.com/vuejs/vue/pull/9173"
         }
+      },
+      "vue-server-renderer": {
+        "2.5.19": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        },
+        "2.5.18": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        }
+      },
+      "vue-template-compiler": {
+        "2.5.19": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        },
+        "2.5.18": {
+          "version": "2.5.17",
+          "reason": "https://github.com/vuejs/vue/pull/9173"
+        }
       }
     }
   }
