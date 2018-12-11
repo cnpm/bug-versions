@@ -1,4 +1,13 @@
 
+1.18.0 / 2018-12-11
+==================
+
+**features**
+  * [[`adc4435`](http://github.com/cnpm/bug-versions/commit/adc4435ba0eb615abeacf2ad5846413763faba36)] - feat: add vue bug version (#28) (Kevin Zhong <<willworks@users.noreply.github.com>>)
+
+**fixes**
+  * [[`493b5da`](http://github.com/cnpm/bug-versions/commit/493b5da32d4c1419ab875595b6851199668e1e4a)] - fix: vue 2.5.{18, 19} => 2.5.17 (Kevin Zhong <<willworks@users.noreply.github.com>>)
+
 1.17.4 / 2018-12-01
 ==================
 
