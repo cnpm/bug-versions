@@ -1,4 +1,10 @@
 
+1.19.0 / 2018-12-25
+==================
+
+**features**
+  * [[`6c509c0`](http://github.com/cnpm/bug-versions/commit/6c509c0e7aea98545cd21596f609615516eedd20)] - feat: Remove Christmas egg from antd (#29) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.18.0 / 2018-12-11
 ==================
 
