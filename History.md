@@ -1,4 +1,10 @@
 
+1.20.0 / 2018-12-25
+==================
+
+**features**
+  * [[`3ed608f`](http://github.com/cnpm/bug-versions/commit/3ed608f94b9f9a0fe4b18684c22bf676e03e8591)] - feat: add loader-utils bug version (#30) (Zoujie <<yibn2008@gmail.com>>)
+
 1.19.0 / 2018-12-25
 ==================
 
