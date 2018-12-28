@@ -315,6 +315,12 @@
           "version": "1.1.0",
           "reason": "https://github.com/webpack/loader-utils/issues/133"
         }
+      },
+      "errlop": {
+        "1.1.0": {
+          "version": "1.0.3",
+          "reason": "https://github.com/bevry/errlop/issues/2"
+        }
       }
     }
   }
