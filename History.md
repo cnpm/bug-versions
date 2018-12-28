@@ -1,4 +1,10 @@
 
+1.21.0 / 2018-12-29
+==================
+
+**features**
+  * [[`79ba98c`](http://github.com/cnpm/bug-versions/commit/79ba98c50f09f3c62a8cb27aba6f783701cbaa4b)] - feat: Add errlop (#31) (Wei Zhu <<yesmeck@gmail.com>>)
+
 1.20.0 / 2018-12-25
 ==================
 
