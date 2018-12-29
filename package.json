@@ -321,6 +321,12 @@
           "version": "1.0.3",
           "reason": "https://github.com/bevry/errlop/issues/2"
         }
+      },
+      "eslint-plugin-react": {
+        "7.12.0": {
+          "version": "7.11.1",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
+        }
       }
     }
   }
