@@ -1,4 +1,10 @@
 
+1.22.0 / 2018-12-29
+==================
+
+**features**
+  * [[`b4f2e68`](http://github.com/cnpm/bug-versions/commit/b4f2e68a2dc05c1c98ecd1a5d726545052fab1af)] - feat: eslint-plugin-react 7.12.0 bug (信鑫-King <<chaolin.jcl@alibaba-inc.com>>)
+
 1.21.0 / 2018-12-29
 ==================
 
