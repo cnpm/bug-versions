@@ -109,6 +109,10 @@
         "^4.0.0": {
           "version": "^4.0.0",
           "reason": "https://github.com/chalk/strip-ansi/blob/v4.0.0/index.js#L4"
+        },
+        "^5.0.0": {
+          "version": "^5.0.0",
+          "reason": "https://github.com/chalk/strip-ansi/blob/v5.0.0/index.js#L4"
         }
       },
       "ansi-regex": {
