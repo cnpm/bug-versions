@@ -1,4 +1,10 @@
 
+1.23.0 / 2019-01-08
+==================
+
+**fixes**
+  * [[`42d7bee`](http://github.com/cnpm/bug-versions/commit/42d7bee4e38836bde0860e483988b28aba42e998)] - fix: unexpected breakages which node-v8.14.0 security release introduced (hyj1991 <<hugh.hyj@alibaba-inc.com>>)
+
 1.22.0 / 2018-12-29
 ==================
 
