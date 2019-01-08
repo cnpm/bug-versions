@@ -59,8 +59,8 @@
         "version": "2.7.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
-      ">= 3.0.0 < 3.13.0": {
-        "version": "3.13.0",
+      ">= 3.0.0 < 3.14.0": {
+        "version": "3.14.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
       ">= 4.0.0 < 4.6.0": {
