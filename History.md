@@ -1,4 +1,10 @@
 
+1.24.0 / 2019-01-16
+==================
+
+**fixes**
+  * [[`170ef01`](http://github.com/cnpm/bug-versions/commit/170ef01a789e2f1a70197d4d74fec5ae7723b14e)] - fix: supertest Unprocessable Entity (#35) (killa <<killa123@126.com>>)
+
 1.23.0 / 2019-01-08
 ==================
 
