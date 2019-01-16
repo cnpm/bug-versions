@@ -327,6 +327,12 @@
           "version": "7.11.1",
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
         }
+      },
+      "supertest": {
+        "3.4.0": {
+          "version": "3.3.0",
+          "reason": "https://github.com/visionmedia/supertest/issues/534"
+        }
       }
     }
   }
