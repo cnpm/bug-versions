@@ -333,12 +333,6 @@
           "version": "3.3.0",
           "reason": "https://github.com/visionmedia/supertest/issues/534"
         }
-      },
-      "@babel/runtime": {
-        "7.3.0": {
-          "version": "7.2.0",
-          "reason": "https://github.com/babel/babel/issues/9376"
-        }
       }
     }
   }
