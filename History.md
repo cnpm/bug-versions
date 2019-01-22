@@ -1,4 +1,10 @@
 
+1.26.0 / 2019-01-22
+==================
+
+**others**
+  * [[`3adca2c`](http://github.com/cnpm/bug-versions/commit/3adca2ca28e95bc157fd79e29d0f2dd1b79fa915)] - Revert "babel-runtime@7.3.0 (#36)" (dead-horse <<dead_horse@qq.com>>)
+
 1.25.0 / 2019-01-22
 ==================
 
