@@ -1,4 +1,10 @@
 
+1.25.0 / 2019-01-22
+==================
+
+**others**
+  * [[`1f470e3`](http://github.com/cnpm/bug-versions/commit/1f470e37d4a03fda7c9bfca2f0fc02b658f8aee7)] - babel-runtime@7.3.0 (#36) (啸生 <<ikobe621@gmail.com>>)
+
 1.24.0 / 2019-01-16
 ==================
 
