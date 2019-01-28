@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.21.0",
+  "version": "1.26.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -33,21 +33,21 @@
         "version": "4.9.1",
         "reason": "https://nodejs.org/en/blog/release/v4.9.1/"
       },
-      ">= 6.0.0 < 6.15.0": {
-        "version": "6.15.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 6.0.0 < 6.16.0": {
+        "version": "6.16.0",
+        "reason": "https://github.com/nodejs/node/pull/24811"
       },
-      ">= 8.0.0 < 8.14.0": {
-        "version": "8.14.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 8.0.0 < 8.15.0": {
+        "version": "8.15.0",
+        "reason": "https://github.com/nodejs/node/pull/24811"
       },
-      ">= 10.0.0 < 10.14.0": {
-        "version": "10.14.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 10.0.0 < 10.15.0": {
+        "version": "10.15.0",
+        "reason": "https://github.com/nodejs/node/pull/24811"
       },
-      ">= 11.0.0 < 11.3.0": {
-        "version": "11.3.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 11.0.0 < 11.6.0": {
+        "version": "11.6.0",
+        "reason": "https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V11.md#11.6.0"
       }
     },
     "unsafe-alinode-versions": {
@@ -59,13 +59,13 @@
         "version": "2.7.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
-      ">= 3.0.0 < 3.13.0": {
-        "version": "3.13.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 3.0.0 < 3.14.0": {
+        "version": "3.14.0",
+        "reason": "https://github.com/nodejs/node/pull/24811"
       },
-      ">= 4.0.0 < 4.6.0": {
-        "version": "4.6.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
+      ">= 4.0.0 < 4.7.0": {
+        "version": "4.7.0",
+        "reason": "https://github.com/nodejs/node/pull/24811"
       }
     },
     "bug-versions": {
@@ -320,6 +320,18 @@
         "1.1.0": {
           "version": "1.0.3",
           "reason": "https://github.com/bevry/errlop/issues/2"
+        }
+      },
+      "eslint-plugin-react": {
+        "7.12.0": {
+          "version": "7.11.1",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
+        }
+      },
+      "supertest": {
+        "3.4.0": {
+          "version": "3.3.0",
+          "reason": "https://github.com/visionmedia/supertest/issues/534"
         }
       },
       "babel-plugin-react-require": {

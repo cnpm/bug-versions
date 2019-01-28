@@ -1,4 +1,34 @@
 
+1.26.0 / 2019-01-22
+==================
+
+**others**
+  * [[`3adca2c`](http://github.com/cnpm/bug-versions/commit/3adca2ca28e95bc157fd79e29d0f2dd1b79fa915)] - Revert "babel-runtime@7.3.0 (#36)" (dead-horse <<dead_horse@qq.com>>)
+
+1.25.0 / 2019-01-22
+==================
+
+**others**
+  * [[`1f470e3`](http://github.com/cnpm/bug-versions/commit/1f470e37d4a03fda7c9bfca2f0fc02b658f8aee7)] - babel-runtime@7.3.0 (#36) (啸生 <<ikobe621@gmail.com>>)
+
+1.24.0 / 2019-01-16
+==================
+
+**fixes**
+  * [[`170ef01`](http://github.com/cnpm/bug-versions/commit/170ef01a789e2f1a70197d4d74fec5ae7723b14e)] - fix: supertest Unprocessable Entity (#35) (killa <<killa123@126.com>>)
+
+1.23.0 / 2019-01-08
+==================
+
+**fixes**
+  * [[`42d7bee`](http://github.com/cnpm/bug-versions/commit/42d7bee4e38836bde0860e483988b28aba42e998)] - fix: unexpected breakages which node-v8.14.0 security release introduced (hyj1991 <<hugh.hyj@alibaba-inc.com>>)
+
+1.22.0 / 2018-12-29
+==================
+
+**features**
+  * [[`b4f2e68`](http://github.com/cnpm/bug-versions/commit/b4f2e68a2dc05c1c98ecd1a5d726545052fab1af)] - feat: eslint-plugin-react 7.12.0 bug (信鑫-King <<chaolin.jcl@alibaba-inc.com>>)
+
 1.21.0 / 2018-12-29
 ==================
 
