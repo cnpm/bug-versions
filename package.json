@@ -333,6 +333,12 @@
           "version": "3.3.0",
           "reason": "https://github.com/visionmedia/supertest/issues/534"
         }
+      },
+      "terser": {
+        "3.16.0": {
+          "version": "3.14.1",
+          "reason": "https://github.com/terser-js/terser/issues/251"
+        }
       }
     }
   }
