@@ -333,6 +333,12 @@
           "version": "3.3.0",
           "reason": "https://github.com/visionmedia/supertest/issues/534"
         }
+      },
+      "ajv": {
+        "6.9.0": {
+          "version": "6.8.1",
+          "reason": "https://github.com/epoberezkin/ajv/issues/941"
+        }
       }
     }
   }
