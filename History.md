@@ -1,4 +1,10 @@
 
+1.27.2 / 2019-02-25
+==================
+
+**fixes**
+  * [[`656942b`](http://github.com/cnpm/bug-versions/commit/656942b42b9947a0d0b94e37b2a7ba2ca63ae100)] - fix: highlight.js@9.15.2 => 9.14.2 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.27.1 / 2019-02-25
 ==================
 

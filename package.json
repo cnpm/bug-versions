@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.27.1",
+  "version": "1.27.2",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -326,12 +326,6 @@
         "7.12.0": {
           "version": "7.11.1",
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
-        }
-      },
-      "highlight.js": {
-        "9.15.1": {
-          "version": "9.14.2",
-          "reason": "https://github.com/highlightjs/highlight.js/issues/1984"
         }
       },
       "highlight.js": {
