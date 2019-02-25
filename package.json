@@ -334,6 +334,12 @@
           "reason": "https://github.com/highlightjs/highlight.js/issues/1984"
         }
       },
+      "highlight.js": {
+        "9.15.2": {
+          "version": "9.14.2",
+          "reason": "https://github.com/highlightjs/highlight.js/issues/1984"
+        }
+      },
       "supertest": {
         "3.4.0": {
           "version": "3.3.0",
