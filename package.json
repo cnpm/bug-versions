@@ -328,6 +328,12 @@
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
         }
       },
+      "highlight.js": {
+        "9.15.1": {
+          "version": "9.15.0",
+          "reason": "https://github.com/highlightjs/highlight.js/issues/1984"
+        }
+      },
       "supertest": {
         "3.4.0": {
           "version": "3.3.0",
