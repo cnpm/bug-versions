@@ -1,4 +1,12 @@
 
+1.29.0 / 2019-02-28
+==================
+
+**features**
+  * [[`bc4ebd8`](http://github.com/cnpm/bug-versions/commit/bc4ebd8b733885f83a96fbb737cb201515ede6e3)] - feat: revert terser@3.16.0 to 3.14.1 (#38) (Clarence Pan <<pan.changyun@qq.com>>)
+  * [[`7d03e4c`](http://github.com/cnpm/bug-versions/commit/7d03e4c6eacf48878a9b2d3cfc03627795808dd8)] - feat: revert ajv 6.9.0 (#40) (AngrySean <<xujihui1985@gmail.com>>)
+  * [[`05dbb1d`](http://github.com/cnpm/bug-versions/commit/05dbb1dd6e97a10dc548b975e1a138431aee560b)] - feat: February 2019 Security Releases (#43) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.28.0 / 2019-02-28
 ==================
 

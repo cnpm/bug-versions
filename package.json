@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -205,9 +205,9 @@
         }
       },
       "ajv": {
-        "6.6.0": {
-          "version": "6.5.5",
-          "reason": "https://github.com/epoberezkin/ajv/issues/889"
+        "6.9.0": {
+          "version": "6.8.1",
+          "reason": "https://github.com/epoberezkin/ajv/issues/941"
         }
       },
       "vue": {
@@ -350,12 +350,6 @@
         "3.16.0": {
           "version": "3.14.1",
           "reason": "https://github.com/terser-js/terser/issues/251"
-        }
-      },
-      "ajv": {
-        "6.9.0": {
-          "version": "6.8.1",
-          "reason": "https://github.com/epoberezkin/ajv/issues/941"
         }
       }
     }
