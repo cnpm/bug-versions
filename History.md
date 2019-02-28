@@ -1,4 +1,28 @@
 
+1.28.0 / 2019-02-28
+==================
+
+**features**
+  * [[`cad7d0b`](http://github.com/cnpm/bug-versions/commit/cad7d0b40677f2a43488094dd11b8424c197c311)] - feat: use npm@6.7.0 instead of npm@6.8.0 (#41) (fengmk2 <<fengmk2@gmail.com>>)
+
+1.27.2 / 2019-02-25
+==================
+
+**fixes**
+  * [[`656942b`](http://github.com/cnpm/bug-versions/commit/656942b42b9947a0d0b94e37b2a7ba2ca63ae100)] - fix: highlight.js@9.15.2 => 9.14.2 (fengmk2 <<fengmk2@gmail.com>>)
+
+1.27.1 / 2019-02-25
+==================
+
+**fixes**
+  * [[`d4182a5`](http://github.com/cnpm/bug-versions/commit/d4182a553b3b6a41b689b5e29779bb0d997227a5)] - fix: use highlight.js@9.14.2 (fengmk2 <<fengmk2@gmail.com>>)
+
+1.27.0 / 2019-02-25
+==================
+
+**features**
+  * [[`3d75dc8`](http://github.com/cnpm/bug-versions/commit/3d75dc82c7808d625a3cf5afbd4ef3c15f889188)] - feat: fix highlight.js@9.15.1 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.26.0 / 2019-01-22
 ==================
 
