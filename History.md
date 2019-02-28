@@ -1,4 +1,10 @@
 
+1.28.0 / 2019-02-28
+==================
+
+**features**
+  * [[`cad7d0b`](http://github.com/cnpm/bug-versions/commit/cad7d0b40677f2a43488094dd11b8424c197c311)] - feat: use npm@6.7.0 instead of npm@6.8.0 (#41) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.27.2 / 2019-02-25
 ==================
 
