@@ -334,6 +334,12 @@
           "reason": "https://github.com/highlightjs/highlight.js/issues/1984"
         }
       },
+      "npm": {
+        "6.8.0": {
+          "version": "6.7.0",
+          "reason": "https://npm.community/t/npm-pack-leaving-out-files-6-8-0-only/5382/5"
+        }
+      },
       "supertest": {
         "3.4.0": {
           "version": "3.3.0",
