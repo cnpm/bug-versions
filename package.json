@@ -25,7 +25,7 @@
         "version": "0.10.48",
         "reason": "https://nodejs.org/en/blog/release/v0.10.48/"
       },
-      ">= 0.12.0 < 0.12.17": {
+      ">= 0.12.0 < 0.12.18": {
         "version": "0.12.18",
         "reason": "https://nodejs.org/en/blog/release/v0.12.18/"
       },
@@ -33,21 +33,21 @@
         "version": "4.9.1",
         "reason": "https://nodejs.org/en/blog/release/v4.9.1/"
       },
-      ">= 6.0.0 < 6.16.0": {
-        "version": "6.16.0",
-        "reason": "https://github.com/nodejs/node/pull/24811"
+      ">= 6.0.0 < 6.17.0": {
+        "version": "6.17.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 8.0.0 < 8.15.0": {
-        "version": "8.15.0",
-        "reason": "https://github.com/nodejs/node/pull/24811"
+      ">= 8.0.0 < 8.15.1": {
+        "version": "8.15.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 10.0.0 < 10.15.0": {
-        "version": "10.15.0",
-        "reason": "https://github.com/nodejs/node/pull/24811"
+      ">= 10.0.0 < 10.15.2": {
+        "version": "10.15.2",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 11.0.0 < 11.6.0": {
-        "version": "11.6.0",
-        "reason": "https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V11.md#11.6.0"
+      ">= 11.0.0 < 11.10.1": {
+        "version": "11.10.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
