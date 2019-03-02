@@ -1,4 +1,10 @@
 
+1.29.1 / 2019-03-03
+==================
+
+**fixes**
+  * [[`7f4736a`](http://github.com/cnpm/bug-versions/commit/7f4736a639672fe0d41fdd237e48db0f96943f58)] - fix: February 2019 Security Releases support alinode (fengmk2 <<fengmk2@gmail.com>>)
+
 1.29.0 / 2019-02-28
 ==================
 
