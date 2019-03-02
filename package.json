@@ -59,13 +59,13 @@
         "version": "2.7.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
-      ">= 3.0.0 < 3.14.0": {
-        "version": "3.14.0",
-        "reason": "https://github.com/nodejs/node/pull/24811"
+      ">= 3.0.0 < 3.14.1": {
+        "version": "3.14.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 4.0.0 < 4.7.0": {
-        "version": "4.7.0",
-        "reason": "https://github.com/nodejs/node/pull/24811"
+      ">= 4.0.0 < 4.7.1": {
+        "version": "4.7.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       }
     },
     "bug-versions": {
