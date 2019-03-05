@@ -1,4 +1,10 @@
 
+1.29.2 / 2019-03-05
+==================
+
+**fixes**
+  * [[`64a109a`](http://github.com/cnpm/bug-versions/commit/64a109aa82528c0652ef75ce03ff16f1ffe7c142)] - fix: revert alinode to 3.14.0 (#44) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.29.1 / 2019-03-03
 ==================
 
