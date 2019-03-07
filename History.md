@@ -1,4 +1,10 @@
 
+1.30.0 / 2019-03-07
+==================
+
+**fixes**
+  * [[`062846b`](http://github.com/cnpm/bug-versions/commit/062846b9072776f759a5fa9b9787168fb5e3e2cd)] - fix: dnd 7.1.0 (#45) (大果 <<sobear.me@gmail.com>>)
+
 1.29.2 / 2019-03-05
 ==================
 
