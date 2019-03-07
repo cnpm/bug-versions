@@ -355,6 +355,12 @@
           "version": "3.14.1",
           "reason": "https://github.com/terser-js/terser/issues/251"
         }
+      },
+      "react-dnd": {
+        "7.1.0": {
+          "version": "7.0.2",
+          "reason": "https://github.com/frontend-collective/react-sortable-tree/issues/463"
+        }
       }
     }
   }
