@@ -154,7 +154,12 @@
           "version": "^2.3.1",
           "reason": "https://github.com/Pomax/bezierjs/blob/gh-pages/lib/utils.js#L101"
         }
-      }
+      },
+      "logform": {
+    	  "^2.1.2": {
+    	    "version": "^2.1.2",
+    	    "reason": "https://github.com/winstonjs/logform/blob/master/format.js#L7"
+       }
     }
   }
 }
