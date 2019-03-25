@@ -361,6 +361,12 @@
           "version": "7.0.2",
           "reason": "https://github.com/frontend-collective/react-sortable-tree/issues/463"
         }
+      },
+      "w3c-xmlserializer": {
+        "1.1.1": {
+          "version": "1.0.1",
+          "reason": "https://github.com/jsdom/w3c-xmlserializer/issues/10"
+        }
       }
     }
   }
