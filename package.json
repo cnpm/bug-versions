@@ -160,6 +160,12 @@
           "version": "^2.1.2",
           "reason": "https://github.com/winstonjs/logform/blob/master/format.js#L7"
         }
+      },
+      "superagent": {
+        "^4.1.0": {
+          "version": "^4.1.0",
+          "reason": "https://github.com/visionmedia/superagent/blob/master/lib/client.js#L5"
+        }
       }
     }
   }
