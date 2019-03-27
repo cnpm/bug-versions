@@ -166,6 +166,12 @@
           "version": "^4.1.0",
           "reason": "https://github.com/visionmedia/superagent/blob/master/lib/client.js#L5"
         }
+      },
+      "split-on-first": {
+        "^1.0.0": {
+          "version": "^1.0.0",
+          "reason": "https://github.com/sindresorhus/split-on-first/blob/master/index.js#L3"
+        }
       }
     }
   }
