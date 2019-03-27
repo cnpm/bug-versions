@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
