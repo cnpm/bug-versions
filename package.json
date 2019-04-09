@@ -184,6 +184,12 @@
           "version": "^1.3.17",
           "reason": "https://github.com/superbiger/pinyin4js/blob/master/index.js#L12"
         }
+      },
+      "array-move": {
+        "^2.1.0": {
+          "version": "^2.1.0",
+          "reason": "https://github.com/sindresorhus/array-move/blob/master/index.js#L3"
+        }
       }
     }
   }
