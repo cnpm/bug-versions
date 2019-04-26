@@ -190,6 +190,12 @@
           "version": "^2.1.0",
           "reason": "https://github.com/sindresorhus/array-move/blob/master/index.js#L3"
         }
+      },
+      "dot-prop": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/sindresorhus/dot-prop/blob/master/index.js#L5"
+        }
       }
     }
   }
