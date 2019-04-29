@@ -196,6 +196,24 @@
           "version": "*",
           "reason": "https://github.com/sindresorhus/dot-prop/blob/master/index.js#L5"
         }
+      },
+      "normalize-url": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/sindresorhus/normalize-url/blob/master/index.js#L6"
+        }
+      },
+      "prepend-http": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/sindresorhus/prepend-http/blob/master/index.js#L2"
+        }
+      },
+      "sort-keys": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/sindresorhus/sort-keys/blob/master/index.js#L4"
+        }
       }
     }
   }
