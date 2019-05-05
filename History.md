@@ -1,4 +1,13 @@
 
+1.31.0 / 2019-05-05
+==================
+
+**features**
+  * [[`a06e23e`](http://github.com/cnpm/bug-versions/commit/a06e23e171c7c3ce8075c1b5715aee9c90db9ab6)] - feat: fix w3c-xmlserializer@1.1.1 (#46) (Houfeng <<admin@xhou.net>>)
+
+**fixes**
+  * [[`63b8360`](http://github.com/cnpm/bug-versions/commit/63b83602a3dbc91b91fcdde8efd069b64722c78b)] - fix: nyc 4.13.1 (#48) (TZ | 天猪 <<atian25@qq.com>>)
+
 1.30.0 / 2019-03-07
 ==================
 
