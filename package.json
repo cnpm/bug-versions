@@ -367,6 +367,12 @@
           "version": "1.0.1",
           "reason": "https://github.com/jsdom/w3c-xmlserializer/issues/10"
         }
+      },
+      "nyc": {
+        "14.1.0": {
+          "version": "13.3.0",
+          "reason": "https://github.com/istanbuljs/nyc/issues/1097"
+        }
       }
     }
   }
