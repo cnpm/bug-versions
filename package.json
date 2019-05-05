@@ -369,7 +369,7 @@
         }
       },
       "nyc": {
-        ">= 14.0.0 <= 14.1.0": {
+        "14.1.0": {
           "version": "13.3.0",
           "reason": "https://github.com/istanbuljs/nyc/issues/1097"
         }
