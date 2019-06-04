@@ -21,6 +21,18 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+      "seinjs": {
+        "^1.1.14": {
+          "version": "^1.1.14",
+          "reason": "see https://npm.alibaba-inc.com/package/seinjs"
+        }
+      },
+      "ky": {
+        "^0.5.2": {
+          "version": "^0.5.2",
+          "reason": "see https://github.com/sindresorhus/ky/blob/master/index.js#L61"
+        }
+      },
       "ityped": {
         "^1.0.3": {
           "version": "^1.0.3",
