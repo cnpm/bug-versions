@@ -373,6 +373,12 @@
           "version": "13.3.0",
           "reason": "https://github.com/istanbuljs/nyc/issues/1097"
         }
+      },
+      "strong-event": {
+        "1.0.2": {
+          "version": "1.0.2",
+          "reason": "using 'const' in exported modules"
+        }
       }
     }
   }
