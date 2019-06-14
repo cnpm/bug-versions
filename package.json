@@ -226,6 +226,12 @@
           "version": "*",
           "reason": "https://github.com/sindresorhus/sort-keys/blob/master/index.js#L4"
         }
+      },
+      "react-pdf-js": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/mikecousins/react-pdf-js"
+        }
       }
     }
   }
