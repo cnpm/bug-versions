@@ -238,6 +238,12 @@
           "version": "^7.4.4",
           "reason": "https://github.com/react-dnd/react-dnd-html5-backend/blob/master/src/OffsetUtils.js#L78"
         }
+      },
+      "dnd-core": {
+        "^7.6.0": {
+          "version": "^7.6.0",
+          "reason": "https://github.com/react-dnd/dnd-core/blob/master/src/DragDropMonitor.js#L26"
+        }
       }
     }
   }
