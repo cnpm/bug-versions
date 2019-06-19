@@ -244,6 +244,12 @@
           "version": "^7.6.0",
           "reason": "https://github.com/react-dnd/dnd-core/blob/master/src/DragDropMonitor.js#L26"
         }
+      },
+      "react-dnd": {
+        "^7.4.5": {
+          "version": "^7.4.5",
+          "reason": "https://github.com/react-dnd/react-dnd"
+        }
       }
     }
   }
