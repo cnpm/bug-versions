@@ -1,4 +1,10 @@
 
+1.31.1 / 2019-06-21
+==================
+
+**features**
+  * [[`4afa217`](http://github.com/cnpm/bug-versions/commit/4afa2173e9232b6bd7db5129ce580acc40b9511f)] - feat: add inquirer bug version (#51) (绝云 <<leungwensen@gmail.com>>)
+
 1.31.0 / 2019-05-05
 ==================
 
