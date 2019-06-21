@@ -73,6 +73,12 @@
       }
     },
     "bug-versions": {
+      "inquirer": {
+        "6.4.0": {
+          "version": "6.3.1",
+          "reason": "https://github.com/SBoudrias/Inquirer.js/issues/811"
+        }
+      },
       "@mdx-js/mdx": {
         "0.16.1": {
           "version": "0.16.0",
