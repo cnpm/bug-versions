@@ -360,6 +360,10 @@
         "3.16.0": {
           "version": "3.14.1",
           "reason": "https://github.com/terser-js/terser/issues/251"
+        },
+        "4.0.1": {
+          "version": "4.0.0",
+          "reason": "https://github.com/terser-js/terser/issues/380"
         }
       },
       "react-dnd": {
