@@ -338,6 +338,12 @@
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
         }
       },
+      "eslint-loader": {
+        "2.2.0": {
+          "version": "2.1.2",
+          "reason": "https://github.com/webpack-contrib/eslint-loader/issues/282"
+        }
+      },
       "highlight.js": {
         "9.15.2": {
           "version": "9.14.2",
