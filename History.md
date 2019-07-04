@@ -1,4 +1,10 @@
 
+1.31.2 / 2019-07-04
+==================
+
+**fixes**
+  * [[`fc60a02`](http://github.com/cnpm/bug-versions/commit/fc60a0234f535526ede07da3685fe181c12ab118)] - fix: eslint-loader 2.2.0 bug (#53) (tangyao <<2001-wms@163.com>>)
+
 1.31.1 / 2019-06-21
 ==================
 
