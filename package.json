@@ -250,6 +250,12 @@
           "version": "^7.4.5",
           "reason": "https://github.com/react-dnd/react-dnd"
         }
+      },
+      "antd-table-infinity": {
+        "^1.1.2": {
+          "version": "^1.1.2",
+          "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
+        }
       }
     }
   }
