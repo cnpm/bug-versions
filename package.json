@@ -385,6 +385,12 @@
           "version": "13.3.0",
           "reason": "https://github.com/istanbuljs/nyc/issues/1097"
         }
+      },
+      "react-router-breadcrumbs-hoc": {
+        "3.2.1": {
+          "version": "3.2.0",
+          "reason": "https://github.com/icd2k3/react-router-breadcrumbs-hoc/issues/74"
+        }
       }
     }
   }
