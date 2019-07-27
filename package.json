@@ -220,6 +220,12 @@
           "reason": "https://github.com/epoberezkin/ajv/issues/941"
         }
       },
+      "css-animation": {
+        "1.6.0": {
+          "version": "1.5.0",
+          "reason": "https://github.com/yiminghe/css-animation/issues/20"
+        }
+      },
       "vue": {
         "2.5.19": {
           "version": "2.5.17",
