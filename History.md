@@ -1,4 +1,10 @@
 
+1.32.0 / 2019-07-28
+==================
+
+**others**
+  * [[`fd27041`](http://github.com/cnpm/bug-versions/commit/fd270411c513d6c5155af2311162cd8d627b9bbf)] - revert css-animation (#55) (啸生 <<ikobe621@gmail.com>>)
+
 1.31.2 / 2019-07-04
 ==================
 
