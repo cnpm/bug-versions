@@ -256,6 +256,12 @@
           "version": "^1.1.2",
           "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
         }
+      },
+      "ansi-colors":{
+        "^3.2.4": {
+          "version": "^3.2.4",
+          "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
+        }
       }
     }
   }
