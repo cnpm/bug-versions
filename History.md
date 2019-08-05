@@ -1,4 +1,11 @@
 
+1.34.0 / 2019-08-05
+==================
+
+**features**
+  * [[`d8e9b97`](http://github.com/cnpm/bug-versions/commit/d8e9b976980cf507c9396b34f54b7b302ec3a2be)] - feat: terser 4.0.1 regression (#52) (Haoqun Jiang <<haoqunjiang@gmail.com>>)
+  * [[`e4eb49b`](http://github.com/cnpm/bug-versions/commit/e4eb49bcd950098a408894f49ffbe7e4f4ebd31d)] - feat: react-router-breadcrumbs-hoc (#54) (信鑫-King <<45808948@qq.com>>)
+
 1.33.0 / 2019-08-05
 ==================
 
