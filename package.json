@@ -394,6 +394,10 @@
         "2.8.0": {
           "version": "2.7.1",
           "reason": "https://github.com/npm/hosted-git-info/blob/latest/CHANGELOG.md#280-2019-08-05"
+        },
+        "2.8.1": {
+          "version": "2.7.1",
+          "reason": "https://github.com/npm/hosted-git-info/blob/latest/CHANGELOG.md#280-2019-08-05"
         }
       },
       "nyc": {
