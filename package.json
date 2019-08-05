@@ -386,6 +386,12 @@
           "reason": "https://github.com/jsdom/w3c-xmlserializer/issues/10"
         }
       },
+      "hosted-git-info": {
+        "2.8.0": {
+          "version": "2.7.1",
+          "reason": "https://github.com/npm/hosted-git-info/blob/latest/CHANGELOG.md#280-2019-08-05"
+        }
+      },
       "nyc": {
         "14.1.0": {
           "version": "13.3.0",
