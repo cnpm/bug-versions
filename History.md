@@ -1,4 +1,10 @@
 
+1.33.0 / 2019-08-05
+==================
+
+**features**
+  * [[`bd20bdb`](http://github.com/cnpm/bug-versions/commit/bd20bdb57c0f120b1889a57c6baf01e6ea2103a1)] - feat: use hosted-git-info@2.7.1 instead of 2.8.0 (#56) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.32.0 / 2019-07-28
 ==================
 
