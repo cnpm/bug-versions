@@ -1,4 +1,10 @@
 
+1.34.1 / 2019-08-05
+==================
+
+**fixes**
+  * [[`3f13dd7`](http://github.com/cnpm/bug-versions/commit/3f13dd7040027d082269718ae4571d37f73b3d54)] - fix: ignore hosted-git-info@2.8.1 too (fengmk2 <<fengmk2@gmail.com>>)
+
 1.34.0 / 2019-08-05
 ==================
 
