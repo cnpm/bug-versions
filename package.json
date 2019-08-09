@@ -70,6 +70,10 @@
       ">= 4.0.0 < 4.7.1": {
         "version": "4.7.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
+      },
+      "=4.8.2": {
+        "version": "4.8.0",
+        "reason": "https://github.com/cnpm/bug-versions/issues/57"
       }
     },
     "bug-versions": {
