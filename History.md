@@ -1,4 +1,10 @@
 
+1.35.0 / 2019-08-09
+==================
+
+**fixes**
+  * [[`3b4e84d`](http://github.com/cnpm/bug-versions/commit/3b4e84d8791df8221071983af3c16be1a92b3815)] - fix: the alinode-v4.8.2 is not compatible in centos6 (#58) (page <<cpj1106@gmail.com>>)
+
 1.34.1 / 2019-08-05
 ==================
 
