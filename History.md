@@ -1,4 +1,10 @@
 
+1.36.0 / 2019-08-14
+==================
+
+**fixes**
+  * [[`67500a8`](http://github.com/cnpm/bug-versions/commit/67500a8dff4ae7a465726eabcf4a8aa763d90956)] - fix: rimraf 2.7.0 -> 2.6.3 (#59) (TZ | 天猪 <<atian25@qq.com>>)
+
 1.35.0 / 2019-08-09
 ==================
 
