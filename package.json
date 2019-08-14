@@ -415,6 +415,12 @@
           "version": "3.2.0",
           "reason": "https://github.com/icd2k3/react-router-breadcrumbs-hoc/issues/74"
         }
+      },
+      "rimraf": {
+        "2.7.0": {
+          "version": "2.6.3",
+          "reason": "https://github.com/isaacs/rimraf/issues/194"
+        }
       }
     }
   }
