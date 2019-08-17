@@ -421,6 +421,12 @@
           "version": "2.6.3",
           "reason": "https://github.com/isaacs/rimraf/issues/194"
         }
+      },
+      "less": {
+        "3.10.0": {
+          "version": "3.9.0",
+          "reason": "https://github.com/less/less.js/issues/3414"
+        }
       }
     }
   }
