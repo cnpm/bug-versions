@@ -423,7 +423,7 @@
         }
       },
       "less": {
-        "3.10.0": {
+        ">= 3.10.0 <= 3.10.1": {
           "version": "3.9.0",
           "reason": "https://github.com/less/less.js/issues/3414"
         }
