@@ -262,7 +262,13 @@
           "version": "^3.2.4",
           "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
         }
-      }
+      },
+      "jexl":{
+	      "^2.1.1":{
+	        "version":"^2.1.1",
+	        "reason":"https://github.com/TomFrost/Jexl/issues/57"
+	      }
+	    }
     }
   }
 }
