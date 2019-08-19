@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.42",
+  "version": "0.1.43",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -263,12 +263,12 @@
           "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
         }
       },
-      "jexl":{
-	      "^2.1.1":{
-	        "version":"^2.1.1",
-	        "reason":"https://github.com/TomFrost/Jexl/issues/57"
-	      }
-	    }
+      "jexl": {
+        "^2.1.1": {
+          "version": "^2.1.1",
+          "reason": "https://github.com/TomFrost/Jexl/issues/57"
+        }
+      }
     }
   }
 }
