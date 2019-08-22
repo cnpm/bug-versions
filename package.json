@@ -1,13 +1,14 @@
 {
   "name": "bug-versions",
-  "version": "1.36.0",
+  "version": "0.0.0-development",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -429,5 +430,21 @@
         }
       }
     }
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.2",
+    "semantic-release": "^15.13.21"
+  },
+  "release": {
+    "branche": "master",
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      ["@semantic-release/changelog", {
+        "changelogFile": "History.md"
+      }],
+      "@semantic-release/npm",
+      "@semantic-release/github"
+    ]
   }
 }
