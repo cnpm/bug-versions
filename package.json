@@ -268,6 +268,12 @@
           "version": "^2.1.1",
           "reason": "https://github.com/TomFrost/Jexl/issues/57"
         }
+      },
+      "d3-array": {
+        "^2.1.0": {
+          "version": "^2.1.0",
+          "reason": "https://github.com/d3/d3-array/blob/master/src/count.js#L2"
+        }
       }
     }
   }
