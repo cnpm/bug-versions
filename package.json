@@ -428,6 +428,20 @@
           "version": "3.9.0",
           "reason": "https://github.com/less/less.js/issues/3414"
         }
+      },
+      "minipass": {
+        "2.6.2": {
+          "version": "2.5.1",
+          "reason": "https://github.com/isaacs/minipass/issues/8"
+        },
+        "2.6.1": {
+          "version": "2.5.1",
+          "reason": "https://github.com/isaacs/minipass/issues/8"
+        },
+        "2.6.0": {
+          "version": "2.5.1",
+          "reason": "https://github.com/isaacs/minipass/issues/8"
+        }
       }
     }
   },
