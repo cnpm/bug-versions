@@ -91,6 +91,10 @@
         "^2.0.2": {
           "version": "^2.0.2",
           "reason": "see https://github.com/antvis/g6/blob/master/plugins/tool.minimap/index.js#L18"
+        },
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "see https://github.com/antvis/g6/issues/839"
         }
       },
       "cgbi-to-png": {
