@@ -13,8 +13,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Install Dependencies
       run: |
-        npm install -g npminstall
-        npminstall
+        npm install
     - name: Continuous integration
       run: npm run test
     - name: Release NPN Package
