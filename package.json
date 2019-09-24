@@ -95,6 +95,10 @@
         "^3.0.0": {
           "version": "^3.0.0",
           "reason": "see https://github.com/antvis/g6/issues/839"
+        },
+        "^3.0.7-beta.1": {
+          "version": "^3.0.7-beta.1",
+          "reason": "see https://github.com/antvis/g6/issues/839"
         }
       },
       "cgbi-to-png": {
