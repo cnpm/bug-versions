@@ -429,6 +429,16 @@
           "reason": "https://github.com/less/less.js/issues/3414"
         }
       },
+      "minizlib": {
+        "1.3.0": {
+          "version": "1.2.2",
+          "reason": "https://github.com/isaacs/minizlib/issues/9"
+        },
+        "1.3.1": {
+          "version": "1.2.2",
+          "reason": "https://github.com/isaacs/minizlib/issues/9"
+        }
+      },
       "minipass": {
         "2.8.4": {
           "version": "2.8.1",
