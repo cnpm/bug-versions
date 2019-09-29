@@ -282,6 +282,20 @@
           "version": "^2.1.0",
           "reason": "https://github.com/d3/d3-array/blob/master/src/count.js#L2"
         }
+      },
+      "wrap-ansi": {
+        "^3.0.1": {
+          "version": "^3.0.1",
+          "reason": "https://github.com/chalk/wrap-ansi/blob/v3.0.1/index.js#L40"
+        },
+        "^4.0.0": {
+          "version": "^4.0.0",
+          "reason": "https://github.com/chalk/wrap-ansi/blob/master/index.js#L13"
+        },
+        "^5.1.0": {
+          "version": "^5.1.0",
+          "reason": "https://github.com/chalk/wrap-ansi/blob/master/index.js#L13"
+        }
       }
     }
   }
