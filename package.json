@@ -296,6 +296,12 @@
           "version": "^5.1.0",
           "reason": "https://github.com/chalk/wrap-ansi/blob/master/index.js#L13"
         }
+      },
+      "react-intl": {
+        "^3.3.2": {
+          "version": "^3.3.2",
+          "reason": "https://github.com/formatjs/react-intl/blob/v3.3.2/src/utils.ts#L36"
+        }
       }
     }
   }
