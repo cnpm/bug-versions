@@ -302,6 +302,24 @@
           "version": "^3.3.2",
           "reason": "https://github.com/formatjs/react-intl/blob/v3.3.2/src/utils.ts#L36"
         }
+      },
+      "ansi-styles": {
+        "^3.2.1": {
+          "version": "^3.2.1",
+          "reason": "https://github.com/chalk/ansi-styles/blob/v3.2.1/index.js#L2"
+        }
+      },
+      "supports-color": {
+        "^5.5.0": {
+          "version": "^5.5.0",
+          "reason": "https://github.com/chalk/supports-color/blob/v5.5.0/index.js#L2"
+        }
+      },
+      "chalk": {
+        "^2.4.2": {
+          "version": "^2.4.2",
+          "reason": "https://github.com/chalk/chalk/blob/v2.4.2/index.js#L2"
+        }
       }
     }
   }
