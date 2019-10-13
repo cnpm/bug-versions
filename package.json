@@ -320,6 +320,24 @@
           "version": "^2.4.2",
           "reason": "https://github.com/chalk/chalk/blob/v2.4.2/index.js#L2"
         }
+      },
+      "@react-spring/animated": {
+        ">9.0.0-beta.0": {
+          "version": "*",
+          "reason": "https://github.com/react-spring/react-spring"
+        }
+      },
+      "@react-spring/core": {
+        ">9.0.0-beta.0": {
+          "version": "*",
+          "reason": "https://github.com/react-spring/react-spring"
+        }
+      },
+      "@react-spring/web": {
+        ">9.0.0-beta.0": {
+          "version": "*",
+          "reason": "https://github.com/react-spring/react-spring"
+        }
       }
     }
   }
