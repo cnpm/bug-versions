@@ -409,6 +409,10 @@
         "14.1.0": {
           "version": "13.3.0",
           "reason": "https://github.com/istanbuljs/nyc/issues/1097"
+        },
+        "14.1.1": {
+          "version": "nyc@15.0.0-beta.0",
+          "reason": "https://github.com/istanbuljs/nyc/issues/1204"
         }
       },
       "react-router-breadcrumbs-hoc": {
