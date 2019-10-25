@@ -338,6 +338,18 @@
           "version": "*",
           "reason": "https://github.com/react-spring/react-spring"
         }
+      },
+      "@supermap/iclient-common": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/SuperMap/iClient-JavaScript/blob/master/src/common/index.js#L4"
+        }
+      },
+      "@supermap/iclient-leaflet": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/SuperMap/iClient-JavaScript/blob/master/src/leaflet/index.js#L4"
+        }
       }
     }
   }
