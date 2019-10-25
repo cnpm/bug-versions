@@ -50,9 +50,9 @@
         "version": "11.10.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 12.0.0 < 12.9.0": {
-        "version": "12.9.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 12.0.0 < 12.13.0": {
+        "version": "12.13.0",
+        "reason": "https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.13.0 LTS"
       }
     },
     "unsafe-alinode-versions": {
@@ -72,9 +72,9 @@
         "version": "4.8.3",
         "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
       },
-      ">= 5.0.0 < 5.8.1": {
-        "version": "5.8.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 5.0.0 < 5.13.0": {
+        "version": "5.13.0",
+        "reason": "https://help.aliyun.com/knowledge_detail/60811.html node.js v12 LTS"
       }
     },
     "bug-versions": {
