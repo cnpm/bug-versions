@@ -356,6 +356,12 @@
           "version": "^2.29.5",
           "reason": "https://github.com/spritejs/spritejs/blob/master/dist/spritejs.esm.js#L3928"
         }
+      },
+      "elasticsearch": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/elastic/elasticsearch-js/blob/master/lib/Serializer.js#L11"
+        }
       }
     }
   }
