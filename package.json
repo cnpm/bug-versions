@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.54",
+  "version": "0.1.55",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -242,9 +242,9 @@
         }
       },
       "react-dnd-html5-backend": {
-        "*": {
-          "version": "*",
-          "reason": "https://github.com/react-dnd/react-dnd-html5-backend/blob/master/src/OffsetUtils.js#L78"
+        "^8.0.3": {
+          "version": "^8.0.3",
+          "reason": "https://github.com/react-dnd/react-dnd-html5-backend/blob/master/src/HTML5Backend.js#137"
         }
       },
       "dnd-core": {
@@ -361,12 +361,6 @@
         "*": {
           "version": "*",
           "reason": "https://github.com/elastic/elasticsearch-js/blob/master/lib/Serializer.js#L11"
-        }
-      },
-      "react-dnd-html5-backend": {
-        "^8.0.3": {
-          "version": "^8.0.3",
-          "reason": "https://github.com/react-dnd/react-dnd-html5-backend/blob/master/src/HTML5Backend.js#137"
         }
       }
     }
