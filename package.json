@@ -362,6 +362,12 @@
           "version": "*",
           "reason": "https://github.com/elastic/elasticsearch-js/blob/master/lib/Serializer.js#L11"
         }
+      },
+      "swr": {
+        "^0.1.10": {
+          "version": "^0.1.10",
+          "reason": "https://github.com/zeit/swr"
+        }
       }
     }
   }
