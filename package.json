@@ -368,6 +368,11 @@
           "version": "^0.1.10",
           "reason": "https://github.com/zeit/swr"
         }
+      },
+      "brain.js": {
+        "^2.0.0-alpha.9": {
+          "version": "^2.0.0-alpha.9",
+          "reason": "https://github.com/BrainJS/brain.js/blob/master/dist/brain-browser.min.js#L14"
       }
     }
   }
