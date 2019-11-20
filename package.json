@@ -373,6 +373,7 @@
         "^2.0.0-alpha.9": {
           "version": "^2.0.0-alpha.9",
           "reason": "https://github.com/BrainJS/brain.js/blob/master/dist/brain-browser.min.js#L14"
+        }
       }
     }
   }
