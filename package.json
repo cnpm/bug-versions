@@ -381,6 +381,10 @@
         "4.0.1": {
           "version": "4.0.0",
           "reason": "https://github.com/terser-js/terser/issues/380"
+        },
+        "4.4.1" : {
+          "version": "4.4.0",
+          "reason": "https://github.com/terser/terser/issues/527"
         }
       },
       "react-dnd": {
