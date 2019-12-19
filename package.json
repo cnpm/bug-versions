@@ -38,21 +38,25 @@
         "version": "6.17.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 8.0.0 < 8.16.1": {
-        "version": "8.16.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 8.0.0 < 8.17.0": {
+        "version": "8.17.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 10.0.0 < 10.16.3": {
-        "version": "10.16.3",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 10.0.0 < 10.18.0": {
+        "version": "10.18.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
       ">= 11.0.0 < 11.10.1": {
         "version": "11.10.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 12.0.0 < 12.13.0": {
-        "version": "12.13.0",
-        "reason": "https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.13.0 LTS"
+      ">= 12.0.0 < 12.14.0": {
+        "version": "12.14.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      },
+      ">= 13.0.0 < 13.4.0": {
+        "version": "13.4.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
@@ -64,17 +68,17 @@
         "version": "2.7.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/november-2018-security-releases/"
       },
-      ">= 3.0.0 < 3.15.1": {
-        "version": "3.15.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 3.0.0 < 3.16.0": {
+        "version": "3.16.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 4.0.0 < 4.8.3": {
-        "version": "4.8.3",
-        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2019-security-releases/"
+      ">= 4.0.0 < 4.9.0": {
+        "version": "4.9.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 5.0.0 < 5.13.0": {
-        "version": "5.13.0",
-        "reason": "https://help.aliyun.com/knowledge_detail/60811.html node.js v12 LTS"
+      ">= 5.0.0 < 5.14.0": {
+        "version": "5.14.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       }
     },
     "bug-versions": {
