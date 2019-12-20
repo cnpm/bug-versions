@@ -10,7 +10,7 @@ jobs:
     container:
       image: thonatos/github-actions-nodejs
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v1
     - name: Install Dependencies
       run: |
         npm install
