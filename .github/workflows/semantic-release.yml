@@ -1,23 +1,39 @@
 name: Actions Release
+
 on:
   push:
     branches:
     - master
-jobs:
 
-  release:
-    runs-on: ubuntu-latest
-    container:
-      image: thonatos/github-actions-nodejs
+jobs:
+  Runner:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node-version: [10]
+
     steps:
-    - uses: actions/checkout@v1
+    - name: Checkout Git Source
+      uses: actions/checkout@v1
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
     - name: Install Dependencies
       run: |
         npm install
+
     - name: Continuous integration
-      run: npm run test
-    - name: Release NPN Package
-      run: npm run semantic-release
+      run: |
+        npm run test
+
+    - name: Release NPM Package
+      run: |
+        npm run semantic-release
       env:
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
