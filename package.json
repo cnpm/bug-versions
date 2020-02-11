@@ -42,21 +42,21 @@
         "version": "8.17.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 10.0.0 < 10.18.0": {
-        "version": "10.18.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      ">= 10.0.0 < 10.19.0": {
+        "version": "10.19.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
       ">= 11.0.0 < 11.10.1": {
         "version": "11.10.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 12.0.0 < 12.14.0": {
-        "version": "12.14.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      ">= 12.0.0 < 12.15.0": {
+        "version": "12.15.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 13.0.0 < 13.4.0": {
-        "version": "13.4.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      ">= 13.0.0 < 13.8.0": {
+        "version": "13.8.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
@@ -72,13 +72,13 @@
         "version": "3.16.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 4.0.0 < 4.9.0": {
-        "version": "4.9.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      ">= 4.0.0 < 4.10.0": {
+        "version": "4.10.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 5.0.0 < 5.14.0": {
-        "version": "5.14.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
+      ">= 5.0.0 < 5.15.0": {
+        "version": "5.15.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       }
     },
     "bug-versions": {
