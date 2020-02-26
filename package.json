@@ -82,6 +82,12 @@
       }
     },
     "bug-versions": {
+      "hosted-git-info": {
+        "3.0.3": {
+          "version": "3.0.2",
+          "reason": "https://github.com/npm/hosted-git-info/issues/59"
+        }
+      },
       "inquirer": {
         "6.4.0": {
           "version": "6.3.1",
