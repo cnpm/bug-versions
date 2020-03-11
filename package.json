@@ -374,6 +374,12 @@
           "version": "^2.0.0-alpha.9",
           "reason": "https://github.com/BrainJS/brain.js/blob/master/dist/brain-browser.min.js#L14"
         }
+      },
+      "ismobilejs": {
+        "^1.0.3": {
+          "version": "^1.0.3",
+          "reason": "https://unpkg.com/browse/ismobilejs@1.0.3/esm/isMobile.js"
+        }
       }
     }
   }
