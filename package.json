@@ -367,6 +367,10 @@
         "^0.1.10": {
           "version": "^0.1.10",
           "reason": "https://github.com/zeit/swr"
+        },
+        "^0.2.0": {
+          "version": "^0.2.0",
+          "reason": "https://github.com/zeit/swr"
         }
       },
       "brain.js": {
