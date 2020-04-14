@@ -494,6 +494,12 @@
           "version": "2.6.5",
           "reason": "https://github.com/twobin/react-lazyload/issues/296"
         }
+      },
+      "react-draggable": {
+        "4.3.1": {
+          "version": "4.2.0",
+          "reason": "https://github.com/STRML/react-draggable/issues/472"
+        }
       }
     }
   },
