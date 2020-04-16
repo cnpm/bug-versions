@@ -500,6 +500,12 @@
           "version": "4.2.0",
           "reason": "https://github.com/STRML/react-draggable/issues/472"
         }
+      },
+      "@antv/matrix-util": {
+        "2.0.6": {
+          "version": "2.0.6",
+          "reason": "https://github.com/antvis/util/issues/40"
+        }
       }
     }
   },
