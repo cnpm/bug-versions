@@ -500,6 +500,12 @@
           "version": "4.2.0",
           "reason": "https://github.com/STRML/react-draggable/issues/472"
         }
+      },
+      "moment": {
+        "2.25.0": {
+          "version": "2.24.0",
+          "reason": "https://github.com/moment/moment/issues/5481"
+        }
       }
     }
   },
