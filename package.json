@@ -508,7 +508,7 @@
         },
         "2.25.1": {
           "version": "2.24.0",
-          "reason": "https://github.com/moment/moment/issues/5481"
+          "reason": "https://github.com/moment/moment/issues/5481#issuecomment-622518215"
         }
       }
     }
