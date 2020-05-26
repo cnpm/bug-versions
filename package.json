@@ -390,6 +390,12 @@
           "version": "^1.11.0",
           "reason": "https://github.com/microsoft/tslib/blob/master/tslib.es6.js#L106"
         }
+      },
+      "event-target-shim": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/mysticatea/event-target-shim/blob/master/dist/event-target-shim.js#L29"
+        }
       }
     }
   }
