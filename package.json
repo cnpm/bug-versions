@@ -396,6 +396,12 @@
           "version": "*",
           "reason": "https://github.com/mysticatea/event-target-shim/blob/master/dist/event-target-shim.js#L29"
         }
+      },
+      "d3-force": {
+        "^2.0.1": {
+          "version": "^2.0.1",
+          "reason": "https://github.com/d3/d3-force"
+        }
       }
     }
   }
