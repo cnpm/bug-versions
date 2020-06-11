@@ -510,6 +510,12 @@
           "version": "2.24.0",
           "reason": "https://github.com/moment/moment/issues/5481#issuecomment-622518215"
         }
+      },
+      "assets-webpack-plugin": {
+        "3.10.0": {
+          "version": "3.9.12",
+          "reason": "https://github.com/ztoben/assets-webpack-plugin/issues/233"
+        }
       }
     }
   },
