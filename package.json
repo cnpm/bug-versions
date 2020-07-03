@@ -517,6 +517,12 @@
           "version": "3.9.12",
           "reason": "https://github.com/ztoben/assets-webpack-plugin/issues/233"
         }
+      },
+      "@formatjs/intl-getcanonicallocales":{
+        "1.2.8": {
+          "version": "1.2.7",
+          "reason": "https://github.com/formatjs/formatjs/issues/1773"
+        }
       }
     }
   },
