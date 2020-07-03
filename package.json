@@ -11,6 +11,11 @@
     "ci": "npm test",
     "semantic-release": "semantic-release"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cnpm/bug-versions.git"
@@ -518,7 +523,7 @@
           "reason": "https://github.com/ztoben/assets-webpack-plugin/issues/233"
         }
       },
-      "@formatjs/intl-getcanonicallocales":{
+      "@formatjs/intl-getcanonicallocales": {
         "1.2.8": {
           "version": "1.2.7",
           "reason": "https://github.com/formatjs/formatjs/issues/1773"
@@ -527,8 +532,11 @@
     }
   },
   "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-angular": "^9.0.1",
     "@semantic-release/changelog": "^3.0.2",
     "egg-ci": "^1.15.0",
+    "husky": "^4.2.5",
     "semantic-release": "^15.13.21"
   },
   "ci": {
