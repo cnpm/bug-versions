@@ -532,7 +532,11 @@
     "semantic-release": "^15.13.21"
   },
   "ci": {
-    "type": "github"
+    "type": "github",
+    "os": {
+      "github": "linux"
+    },
+    "version": "12.x"
   },
   "release": {
     "branche": "master",
