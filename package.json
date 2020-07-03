@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "test": "node test.js",
+    "ci": "npm test",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -386,7 +387,7 @@
           "version": "4.0.0",
           "reason": "https://github.com/terser-js/terser/issues/380"
         },
-        "4.4.1" : {
+        "4.4.1": {
           "version": "4.4.0",
           "reason": "https://github.com/terser/terser/issues/527"
         }
@@ -511,7 +512,7 @@
           "reason": "https://github.com/moment/moment/issues/5481#issuecomment-622518215"
         }
       },
-      "assets-webpack-plugin":{
+      "assets-webpack-plugin": {
         "3.10.0": {
           "version": "3.9.12",
           "reason": "https://github.com/ztoben/assets-webpack-plugin/issues/233"
@@ -527,7 +528,11 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.2",
+    "egg-ci": "^1.15.0",
     "semantic-release": "^15.13.21"
+  },
+  "ci": {
+    "type": "github"
   },
   "release": {
     "branche": "master",
@@ -535,9 +540,12 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      ["@semantic-release/changelog", {
-        "changelogFile": "History.md"
-      }],
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "History.md"
+        }
+      ],
       "@semantic-release/npm",
       "@semantic-release/github"
     ]
