@@ -235,6 +235,12 @@
           "reason": "https://github.com/sindresorhus/sort-keys/blob/master/index.js#L4"
         }
       },
+      "dfa": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/foliojs/dfa/blob/master/src/StateMachine.js#L8"
+        }
+      },
       "react-pdf-js": {
         "*": {
           "version": "*",
