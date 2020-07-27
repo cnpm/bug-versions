@@ -8,7 +8,13 @@
   ],
   "scripts": {
     "test": "node test.js",
+    "ci": "npm test",
     "semantic-release": "semantic-release"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "repository": {
     "type": "git",
@@ -390,7 +396,7 @@
           "version": "4.0.0",
           "reason": "https://github.com/terser-js/terser/issues/380"
         },
-        "4.4.1" : {
+        "4.4.1": {
           "version": "4.4.0",
           "reason": "https://github.com/terser/terser/issues/527"
         }
@@ -492,12 +498,71 @@
           "version": "3.1.9-1",
           "reason": "https://github.com/brix/crypto-js/issues/256#issuecomment-584644251"
         }
+      },
+      "react-lazyload": {
+        "2.6.6": {
+          "version": "2.6.5",
+          "reason": "https://github.com/twobin/react-lazyload/issues/296"
+        }
+      },
+      "react-draggable": {
+        "4.3.1": {
+          "version": "4.2.0",
+          "reason": "https://github.com/STRML/react-draggable/issues/472"
+        }
+      },
+      "moment": {
+        "2.25.0": {
+          "version": "2.24.0",
+          "reason": "https://github.com/moment/moment/issues/5481"
+        },
+        "2.25.1": {
+          "version": "2.24.0",
+          "reason": "https://github.com/moment/moment/issues/5481#issuecomment-622518215"
+        }
+      },
+      "assets-webpack-plugin": {
+        "3.10.0": {
+          "version": "3.9.12",
+          "reason": "https://github.com/ztoben/assets-webpack-plugin/issues/233"
+        }
+      },
+      "@formatjs/intl-getcanonicallocales": {
+        "1.2.8": {
+          "version": "1.2.7",
+          "reason": "https://github.com/formatjs/formatjs/issues/1773"
+        }
+      },
+      "lodash": {
+        "4.17.16": {
+          "version": "4.17.15",
+          "reason": "https://github.com/lodash/lodash/issues/4846"
+        },
+        "4.17.17": {
+          "version": "4.17.15",
+          "reason": "https://github.com/lodash/lodash/issues/4848"
+        },
+        "4.17.18": {
+          "version": "4.17.15",
+          "reason": "https://github.com/lodash/lodash/issues/4850"
+        }
       }
     }
   },
   "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-angular": "^9.0.1",
     "@semantic-release/changelog": "^3.0.2",
+    "egg-ci": "^1.15.0",
+    "husky": "^4.2.5",
     "semantic-release": "^15.13.21"
+  },
+  "ci": {
+    "type": "github",
+    "os": {
+      "github": "linux"
+    },
+    "version": "12.x"
   },
   "release": {
     "branche": "master",
@@ -505,9 +570,12 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      ["@semantic-release/changelog", {
-        "changelogFile": "History.md"
-      }],
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "History.md"
+        }
+      ],
       "@semantic-release/npm",
       "@semantic-release/github"
     ]
