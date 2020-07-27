@@ -351,6 +351,10 @@
         "7.12.0": {
           "version": "7.11.1",
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2095"
+        },
+        "7.20.4": {
+          "version": "7.20.3",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2728"
         }
       },
       "eslint-loader": {
