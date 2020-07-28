@@ -8,8 +8,9 @@
   ],
   "scripts": {
     "test": "node test.js",
-    "ci": "npm test",
-    "semantic-release": "semantic-release"
+    "ci": "npm run lint:commit && npm test",
+    "semantic-release": "semantic-release",
+    "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
   "husky": {
     "hooks": {
