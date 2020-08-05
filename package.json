@@ -547,6 +547,12 @@
           "version": "4.17.15",
           "reason": "https://github.com/lodash/lodash/issues/4850"
         }
+      },
+      "@babel/parser": {
+        "7.11.1": {
+          "version": "7.11.0",
+          "reason": "https://github.com/babel/babel/issues/11914"
+        }
       }
     }
   },
