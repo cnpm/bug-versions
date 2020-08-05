@@ -2,11 +2,11 @@ name: Actions Release
 
 on:
   push:
-    branches:
-    - master
+    branches: [ master ]
 
 jobs:
-  Runner:
+  build:
+
     runs-on: ${{ matrix.os }}
 
     strategy:
