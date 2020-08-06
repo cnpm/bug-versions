@@ -553,6 +553,12 @@
           "version": "7.11.0",
           "reason": "https://github.com/babel/babel/issues/11914"
         }
+      },
+      "mobx": {
+        "4.15.5": {
+          "version": "4.15.4",
+          "reason": "breaking change"
+        }
       }
     }
   },
