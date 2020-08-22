@@ -21,6 +21,12 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+      "asn1.js": {
+        "^5.0.0": {
+          "version": "^5.0.0",
+          "reason": "see https://github.com/indutny/asn1.js/blob/83d1a2ff93353f1e742d6429e3aba2e403fb4d92/lib/asn1/base/node.js#L3"
+        }
+      },
       "seinjs": {
         "^1.1.14": {
           "version": "^1.1.14",
