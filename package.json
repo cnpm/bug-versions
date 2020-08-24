@@ -559,6 +559,16 @@
           "version": "4.15.4",
           "reason": "breaking change"
         }
+      },
+      "intl-messageformat-parser": {
+        "5.5.1": {
+          "version": "5.4.2",
+          "reason": "https://github.com/formatjs/formatjs/issues/2005"
+        },
+        "5.5.0": {
+          "version": "5.4.2",
+          "reason": "https://github.com/formatjs/formatjs/issues/2005"
+        }
       }
     }
   },
