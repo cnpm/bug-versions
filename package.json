@@ -366,6 +366,14 @@
         "7.20.4": {
           "version": "7.20.3",
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2728"
+        },
+        "7.21.0": {
+          "version": "7.20.6",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
+        },
+        "7.21.1": {
+          "version": "7.20.6",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
         }
       },
       "eslint-loader": {
@@ -572,16 +580,6 @@
         "5.5.0": {
           "version": "5.4.2",
           "reason": "https://github.com/formatjs/formatjs/issues/2005"
-        }
-      },
-      "eslint-plugin-react": {
-        "7.21.0": {
-          "version": "7.20.6",
-          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
-        },
-        "7.21.1": {
-          "version": "7.20.6",
-          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
         }
       }
     }
