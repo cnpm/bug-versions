@@ -573,6 +573,12 @@
           "version": "5.4.2",
           "reason": "https://github.com/formatjs/formatjs/issues/2005"
         }
+      },
+      "eslint-plugin-react": {
+        "7.21.0": {
+          "version": "7.20.6",
+          "reason": "breaking change"
+        }
       }
     }
   },
