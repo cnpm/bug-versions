@@ -575,7 +575,11 @@
         }
       },
       "eslint-plugin-react": {
-        ">= 7.21.0 < 7.21.2": {
+        "7.21.0": {
+          "version": "7.20.6",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
+        },
+        "7.21.1": {
           "version": "7.20.6",
           "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/2804"
         }
