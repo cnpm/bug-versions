@@ -581,6 +581,12 @@
           "version": "5.4.2",
           "reason": "https://github.com/formatjs/formatjs/issues/2005"
         }
+      },
+      "react-sortablejs": {
+        "2.1.0": {
+          "version": "2.0.11",
+          "reason": "https://github.com/SortableJS/react-sortablejs/issues/178"
+        }
       }
     }
   },
