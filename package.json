@@ -87,9 +87,13 @@
         "version": "4.10.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 5.0.0 < 5.15.0": {
-        "version": "5.15.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
+      ">= 5.0.0 < 5.16.4": {
+        "version": "5.16.4",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2020-security-releases/"
+      },
+      ">= 6.0.0 < 6.3.0": {
+        "version": "6.3.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2020-security-releases/"
       }
     },
     "bug-versions": {
