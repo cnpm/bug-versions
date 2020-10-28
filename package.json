@@ -97,6 +97,12 @@
       }
     },
     "bug-versions": {
+      "react-color": {
+        "2.19.1": {
+          "version": "2.18.1",
+          "reason": "https://github.com/casesandberg/react-color/issues/771"
+        }
+      },
       "inquirer": {
         "6.4.0": {
           "version": "6.3.1",
