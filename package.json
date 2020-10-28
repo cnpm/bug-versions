@@ -98,8 +98,8 @@
     },
     "bug-versions": {
       "react-color": {
-        "2.18.0": {
-          "version": "2.19.1",
+        "2.19.1": {
+          "version": "2.18.1",
           "reason": "https://github.com/casesandberg/react-color/issues/771"
         }
       },
