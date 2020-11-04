@@ -595,6 +595,12 @@
           "version": "5.4.2",
           "reason": "https://github.com/formatjs/formatjs/issues/2005"
         }
+      },
+      "@babel/types": {
+        "7.12.5": {
+          "version": "7.12.1",
+          "reason": "https://github.com/babel/babel/issues/12306"
+        }
       }
     }
   },
