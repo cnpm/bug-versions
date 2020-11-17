@@ -601,6 +601,12 @@
           "version": "7.12.1",
           "reason": "https://github.com/babel/babel/issues/12306"
         }
+      },
+      "style-resources-loader": {
+        "1.4.0": {
+          "version": "1.0.0",
+          "reason": "https://github.com/yenshih/style-resources-loader/issues/30"
+        }
       }
     }
   },
