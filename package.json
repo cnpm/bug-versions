@@ -607,6 +607,16 @@
           "version": "1.0.0",
           "reason": "https://github.com/yenshih/style-resources-loader/issues/30"
         }
+      },
+      "@types/react": {
+        "16.14.1": {
+          "version": "16.9.56",
+          "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49713"
+        },
+        "16.14.0": {
+          "version": "16.9.56",
+          "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49713"
+        }
       }
     }
   },
