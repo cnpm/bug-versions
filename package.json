@@ -617,6 +617,12 @@
           "version": "16.9.56",
           "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49713"
         }
+      },
+      "babel-plugin-import": {
+        "1.13.2": {
+          "version": "1.13.1",
+          "reason": "https://github.com/ant-design/babel-plugin-import/issues/557"
+        }
       }
     }
   },
