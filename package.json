@@ -432,6 +432,12 @@
           "version": "^2.5.10",
           "reason": "https://github.com/PearInc/PearPlayer.js/blob/master/dist/pear-player.js#L15617"
         }
+      },
+      "nanoid": {
+        "^3.1.18": {
+          "version": "^3.1.18",
+          "reason": "https://github.com/ai/nanoid#ie"
+        }
       }
     }
   }
