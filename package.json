@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.66",
+  "version": "0.1.67",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -23,20 +23,20 @@
     "es5-imcompatible-versions": {
       "ml-matrix": {
         "^6.5.0": {
-        "version": "^6.5.0",
-        "reason": "see https://github.com/mljs/matrix/blob/master/src/correlation.js#L3"
+          "version": "^6.5.0",
+          "reason": "see https://github.com/mljs/matrix/blob/master/src/correlation.js#L3"
         }
       },
       "d3-dispatch": {
         "^2.0.0": {
-        "version": "^2.0.0",
-        "reason": "see https://github.com/d3/d3-dispatch/blob/master/src/dispatch.js#L1"
+          "version": "^2.0.0",
+          "reason": "see https://github.com/d3/d3-dispatch/blob/master/src/dispatch.js#L1"
         }
       },
       "d3-hierarchy": {
         "^2.0.0": {
-        "version": "^2.0.0",
-        "reason": "see https://github.com/d3/d3-hierarchy/blob/master/src/hierarchy/each.js#L3"
+          "version": "^2.0.0",
+          "reason": "see https://github.com/d3/d3-hierarchy/blob/master/src/hierarchy/each.js#L3"
         }
       },
       "asn1.js": {
