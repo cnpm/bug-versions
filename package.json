@@ -87,17 +87,17 @@
         "version": "3.16.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 4.0.0 < 4.13.0": {
-        "version": "4.13.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2020-security-releases/"
+      ">= 4.0.0 < 4.13.1": {
+        "version": "4.13.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       },
-      ">= 5.0.0 < 5.17.1": {
-        "version": "5.17.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/"
+      ">= 5.0.0 < 5.18.1": {
+        "version": "5.18.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       },
-      ">= 6.0.0 < 6.4.1": {
-        "version": "6.4.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/"
+      ">= 6.0.0 < 6.4.4": {
+        "version": "6.4.4",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       }
     },
     "bug-versions": {
