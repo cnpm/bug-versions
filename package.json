@@ -456,6 +456,30 @@
           "version": "^3.1.18",
           "reason": "https://github.com/ai/nanoid#ie"
         }
+      },
+      "@uiw/react-codemirror": {
+        "^3.0.2": {
+          "version": "3.0.2",
+          "reason": "https://github.com/uiwjs/react-codemirror"
+        }
+      },
+      "@uiw/react-md-editor": {
+        "^2.1.0": {
+          "version": "2.1.0",
+          "reason": "https://github.com/uiwjs/react-md-editor"
+        }
+      },
+      "@uiw/react-markdown-preview": {
+        "^2.1.1": {
+          "version": "2.1.1",
+          "reason": "https://github.com/uiwjs/react-markdown-preview"
+        }
+      },
+      "@uiw/react-monacoeditor": {
+        "^2.2.2": {
+          "version": "2.2.2",
+          "reason": "https://github.com/uiwjs/react-monacoeditor"
+        }
       }
     }
   }
