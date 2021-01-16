@@ -49,29 +49,29 @@
         "version": "8.17.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/"
       },
-      ">= 10.0.0 < 10.22.1": {
-        "version": "10.22.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2020-security-releases/"
+      ">= 10.0.0 < 10.23.1": {
+        "version": "10.23.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       },
       ">= 11.0.0 < 11.10.1": {
         "version": "11.10.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 12.0.0 < 12.19.1": {
-        "version": "12.19.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/"
+      ">= 12.0.0 < 12.20.1": {
+        "version": "12.20.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       },
       ">= 13.0.0 < 13.8.0": {
         "version": "13.8.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 14.0.0 < 14.15.1": {
-        "version": "14.15.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/"
+      ">= 14.0.0 < 14.15.4": {
+        "version": "14.15.4",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       },
-      ">= 15.0.0 < 15.2.1": {
-        "version": "15.2.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/"
+      ">= 15.0.0 < 15.5.1": {
+        "version": "15.5.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
