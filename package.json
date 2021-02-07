@@ -627,6 +627,12 @@
           "version": "1.13.1",
           "reason": "https://github.com/ant-design/babel-plugin-import/issues/557"
         }
+      },
+      "graceful-fs": {
+        "4.2.5": {
+          "version": "4.2.5",
+          "reason": "fs.copyFile breaking change"
+        }
       }
     }
   },
