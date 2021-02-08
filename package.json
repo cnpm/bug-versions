@@ -630,7 +630,7 @@
       },
       "graceful-fs": {
         "4.2.5": {
-          "version": "4.2.5",
+          "version": "4.2.4",
           "reason": "fs.copyFile breaking change"
         }
       }
