@@ -633,6 +633,12 @@
           "version": "4.2.4",
           "reason": "fs.copyFile breaking change"
         }
+      },
+      "@babel/runtime": {
+        "7.12.17": {
+          "version": "7.12.13",
+          "reason": "https://github.com/babel/babel/issues/12816"
+        }
       }
     }
   },
