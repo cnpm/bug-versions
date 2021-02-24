@@ -642,7 +642,7 @@
     "@semantic-release/changelog": "^3.0.2",
     "egg-ci": "^1.15.0",
     "husky": "^4.2.5",
-    "semantic-release": "^15.13.21"
+    "semantic-release": "^17.3.9"
   },
   "ci": {
     "type": "github",
