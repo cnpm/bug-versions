@@ -633,6 +633,12 @@
           "version": "4.2.4",
           "reason": "fs.copyFile breaking change"
         }
+      },
+      "clipboard": {
+        "2.0.7": {
+          "version": "2.0.6",
+          "reason": "https://github.com/zenorocha/clipboard.js/issues/737"
+        }
       }
     }
   },
