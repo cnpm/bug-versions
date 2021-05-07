@@ -462,6 +462,12 @@
           "version": "^3.1.0",
           "reason": "https://github.com/caolan/async/blob/master/lib/internal/queue.js#L30"
         }
+      },
+      "date-fns": {
+        "^2.21.2": {
+          "version": "^2.21.2",
+          "reason": "https://github.com/date-fns/date-fns/blob/v2.21.2/src/_lib/format/lightFormatters/index.ts#L18"
+        }
       }
     }
   }
