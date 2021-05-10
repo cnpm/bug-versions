@@ -639,6 +639,12 @@
           "version": "2.0.6",
           "reason": "https://github.com/zenorocha/clipboard.js/issues/737"
         }
+      },
+      "caniuse-lite": {
+        "1.0.30001225": {
+          "version": "1.0.30001223",
+          "reason": "https://github.com/browserslist/caniuse-lite/issues/70"
+        }
       }
     }
   },
