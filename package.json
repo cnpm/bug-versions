@@ -645,6 +645,12 @@
           "version": "1.0.30001223",
           "reason": "https://github.com/browserslist/caniuse-lite/issues/70"
         }
+      },
+      "eslint-plugin-import": {
+        "2.23.0": {
+          "version": "2.22.1",
+          "reason": "https://github.com/benmosher/eslint-plugin-import/issues/2056"
+        }
       }
     }
   },
