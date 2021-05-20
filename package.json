@@ -651,6 +651,12 @@
           "version": "2.22.1", 
           "reason": "https://github.com/benmosher/eslint-plugin-import/issues/2056"
         }
+      },
+      "react-images-viewer": {
+        "1.6.4": {
+          "version": "1.6.2",
+          "reason": "https://github.com/guonanci/react-images-viewer/issues/24"
+        }
       }
     }
   },
