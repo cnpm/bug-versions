@@ -1,6 +1,6 @@
 {
   "name": "es5-imcompatible-versions",
-  "version": "0.1.71",
+  "version": "0.1.72",
   "description": "Collect all uglify bug versions on npm package.",
   "main": "index.js",
   "files": [
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
-       "mathjs": {
+      "mathjs": {
         "^9.4.1": {
           "version": "^9.4.1",
           "reason": "see https://github.com/josdejong/mathjs"
