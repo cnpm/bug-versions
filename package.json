@@ -21,6 +21,12 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+       "mathjs": {
+        "^9.4.1": {
+          "version": "^9.4.1",
+          "reason": "see https://github.com/josdejong/mathjs"
+        }
+      },
       "ml-matrix": {
         "^6.5.0": {
           "version": "^6.5.0",
