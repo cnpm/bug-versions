@@ -663,6 +663,12 @@
           "version": "3.3.1",
           "reason": "https://github.com/zorkow/speech-rule-engine/issues/527"
         }
+      },
+      "marked": {
+        "2.1.0": {
+          "version": "2.1.0",
+          "reason": "https://github.com/markedjs/marked/issues/2106"
+        }
       }
     }
   },
