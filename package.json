@@ -666,7 +666,7 @@
       },
       "marked": {
         "2.1.0": {
-          "version": "2.1.0",
+          "version": "2.0.7",
           "reason": "https://github.com/markedjs/marked/issues/2106"
         }
       }
