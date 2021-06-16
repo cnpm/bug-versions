@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "0.0.0-development",
+  "version": "1.57.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -648,7 +648,7 @@
       },
       "eslint-plugin-import": {
         "2.23.0": {
-          "version": "2.22.1", 
+          "version": "2.22.1",
           "reason": "https://github.com/benmosher/eslint-plugin-import/issues/2056"
         }
       },
