@@ -37,12 +37,40 @@
         "^2.0.0": {
           "version": "^2.0.0",
           "reason": "see https://github.com/d3/d3-dispatch/blob/master/src/dispatch.js#L1"
+        },
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "see https://github.com/d3/d3-dispatch/blob/master/src/dispatch.js#L1"
         }
       },
       "d3-hierarchy": {
         "^2.0.0": {
           "version": "^2.0.0",
           "reason": "see https://github.com/d3/d3-hierarchy/blob/master/src/hierarchy/each.js#L3"
+        },
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "see https://github.com/d3/d3-hierarchy/blob/master/src/hierarchy/each.js#L3"
+        }
+      },
+      "d3-interpolate": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "see https://github.com/d3/d3-interpolate/blob/main/src/constant.js#L1"
+        },
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "see https://github.com/d3/d3-interpolate/blob/main/src/constant.js#L1"
+        }
+      },
+      "d3-color": {
+        "^2.0.0": {
+          "version": "^2.0.0",
+          "reason": "see https://github.com/d3/d3-color/blob/main/src/math.js#L1"
+        },
+        "^3.0.0": {
+          "version": "^3.0.0",
+          "reason": "see https://github.com/d3/d3-color/blob/main/src/math.js#L1"
         }
       },
       "asn1.js": {
