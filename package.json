@@ -683,7 +683,11 @@
         }
       },
 ​      "vue-eslint-parser": {
-​        ">=7.7.0": {
+​        "7.7.0": {
+​          "version": "7.6.0",
+​          "reason": "https://github.com/vuejs/vue-eslint-parser/issues/112"
+​        },
+        "7.7.1": {
 ​          "version": "7.6.0",
 ​          "reason": "https://github.com/vuejs/vue-eslint-parser/issues/112"
 ​        }
