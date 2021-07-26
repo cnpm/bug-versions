@@ -116,6 +116,12 @@
       }
     },
     "bug-versions": {
+      "uglify-js": {
+        "3.14.0": {
+          "version": "3.14.0",
+          "reason": "https://github.com/mishoo/UglifyJS/issues/5102"
+        }
+      },
       "react-color": {
         "2.19.1": {
           "version": "2.18.1",
