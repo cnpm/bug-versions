@@ -118,7 +118,7 @@
     "bug-versions": {
       "uglify-js": {
         "3.14.0": {
-          "version": "3.14.0",
+          "version": "3.13.10",
           "reason": "https://github.com/mishoo/UglifyJS/issues/5102"
         }
       },
