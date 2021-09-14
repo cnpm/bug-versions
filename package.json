@@ -708,6 +708,12 @@
           "version": "7.6.0",
           "reason": "https://github.com/vuejs/vue-eslint-parser/issues/112"
         }
+      },
+      "sass": {
+        "1.40.0": {
+          "version": "1.39.2",
+          "reason": "https://github.com/sass/sass/issues/3142"
+        }
       }
     }
   },
