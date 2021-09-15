@@ -132,6 +132,10 @@
         "6.4.0": {
           "version": "6.3.1",
           "reason": "https://github.com/SBoudrias/Inquirer.js/issues/811"
+        },
+        "8.1.4": {
+          "version": "8.1.2",
+          "reason": "https://github.com/SBoudrias/Inquirer.js/issues/1046"
         }
       },
       "@mdx-js/mdx": {
