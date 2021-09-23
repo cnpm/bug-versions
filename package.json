@@ -712,6 +712,12 @@
           "version": "7.6.0",
           "reason": "https://github.com/vuejs/vue-eslint-parser/issues/112"
         }
+      },
+      "node-fetch": {
+        "2.6.4": {
+          "version": "2.6.2",
+          "reason": "https://github.com/node-fetch/node-fetch/pull/1303"
+        }
       }
     }
   },
