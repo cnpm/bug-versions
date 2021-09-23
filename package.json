@@ -57,25 +57,25 @@
         "version": "11.10.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
       },
-      ">= 12.0.0 < 12.22.3": {
-        "version": "12.22.3",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2021-security-releases/"
+      ">= 12.0.0 < 12.22.6": {
+        "version": "12.22.6",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases2/"
       },
       ">= 13.0.0 < 13.8.0": {
         "version": "13.8.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 14.0.0 < 14.17.3": {
-        "version": "14.17.3",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2021-security-releases/"
+      ">= 14.0.0 < 14.17.6": {
+        "version": "14.17.6",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases2/"
       },
       ">= 15.0.0 < 15.10.0": {
         "version": "15.10.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2021-security-releases/"
       },
-      ">= 16.0.0 < 16.4.2": {
-        "version": "16.4.2",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2021-security-releases/"
+      ">= 16.0.0 < 16.10.0": {
+        "version": "16.10.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
@@ -99,20 +99,20 @@
         "node": "10.24.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2021-security-releases/"
       },
-      ">= 5.0.0 < 5.20.1": {
-        "version": "5.20.1",
-        "node": "12.22.2",
-        "reason": "https://help.aliyun.com/document_detail/60811.html"
+      ">= 5.0.0 < 5.20.2": {
+        "version": "5.20.2",
+        "node": "12.22.5",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/"
       },
-      ">= 6.0.0 < 6.6.0": {
-        "version": "6.6.0",
-        "node": "14.17.2",
-        "reason": "https://help.aliyun.com/document_detail/60811.html"
+      ">= 6.0.0 < 6.6.1": {
+        "version": "6.6.1",
+        "node": "14.17.5",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/"
       },
-      ">= 7.0.0 < 7.1.0": {
-        "version": "7.1.0",
-        "node": "16.4.1",
-        "reason": "https://help.aliyun.com/document_detail/60811.html"
+      ">= 7.0.0 < 7.2.0": {
+        "version": "7.2.0",
+        "node": "16.8.0",
+        "reason": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/"
       }
     },
     "bug-versions": {
