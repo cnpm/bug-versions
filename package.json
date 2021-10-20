@@ -705,6 +705,10 @@
         "10.7.0": {
           "version": "10.6.0",
           "reason": "https://github.com/cssinjs/jss/issues/1525"
+        },
+        "10.8.1": {
+          "version": "10.8.0",
+          "reason": "https://github.com/cssinjs/jss/issues/1565"
         }
       },
       "vue-eslint-parser": {
