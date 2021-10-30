@@ -722,6 +722,12 @@
           "version": "2.6.2",
           "reason": "https://github.com/node-fetch/node-fetch/pull/1303"
         }
+      },
+      "@babel/plugin-transform-typescript": {
+        "7.16.0": {
+          "version": "7.15.8",
+          "reason": "binding may be undefined, cause: Cannot read property 'path' of undefined"
+        }
       }
     }
   },
