@@ -116,6 +116,12 @@
       }
     },
     "bug-versions": {
+      "coa": {
+        "2.1.3": {
+          "version": "2.0.2",
+          "reason": "https://github.com/veged/coa/issues/99"
+        }
+      },
       "uglify-js": {
         "3.14.0": {
           "version": "3.13.10",
