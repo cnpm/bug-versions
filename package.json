@@ -754,6 +754,12 @@
           "version": "7.15.8",
           "reason": "binding may be undefined, cause: Cannot read property 'path' of undefined"
         }
+      },
+      "@alifd/field": {
+        "1.5.7": {
+          "version": "1.5.5",
+          "reason": "@alifd/field@1.5.7 init 类型和@alifd/next 的 Input 结合报错 https://github.com/alibaba-fusion/field/issues/84"
+        }
       }
     }
   },
