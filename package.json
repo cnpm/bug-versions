@@ -116,6 +116,12 @@
       }
     },
     "bug-versions": {
+      "gifsicle": {
+        "5.3.0": {
+          "version": "5.2.1",
+          "reason": "https://github.com/imagemin/gifsicle-bin/issues/133"
+        }
+      },
       "coa": {
         "2.0.3": {
           "version": "2.0.2",
