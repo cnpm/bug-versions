@@ -17,3 +17,11 @@
 collect all bug versions on npm package.
 
 Can use on npminstall, see https://github.com/cnpm/npminstall/pull/256.
+
+## License
+
+[MIT](LICENSE.txt)
+
+## Contributors
+
+[![](https://badges.implements.io/api/contributors?org=cnpm&repo=bug-versions&width=1250&size=96&padding=6)](https://github.com/cnpm/bug-versions/graphs/contributors)
