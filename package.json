@@ -766,6 +766,42 @@
           "version": "1.5.5",
           "reason": "@alifd/field@1.5.7 init 类型和@alifd/next 的 Input 结合报错 https://github.com/alibaba-fusion/field/issues/84"
         }
+      },
+      "@ant-design/pro-descriptions": {
+        "1.10.12": {
+          "version": "1.10.11",
+          "reason": "npm failed to publish"
+        }
+      },
+      "@ant-design/pro-table": {
+        "2.59.6": {
+          "version": "2.59.5",
+          "reason": "npm failed to publish"
+        }
+      },
+      "@ant-design/pro-provider": {
+        "1.5.3": {
+          "version": "1.5.2",
+          "reason": "npm failed to publish"
+        }
+      },
+      "@ant-design/pro-form": {
+        "1.49.10": {
+          "version": "1.49.9",
+          "reason": "npm failed to publish"
+        }
+      },
+      "@ant-design/pro-field": {
+        "1.28.6": {
+          "version": "1.28.5",
+          "reason": "npm failed to publish"
+        }
+      },
+      "@ant-design/pro-card": {
+        "1.18.9": {
+          "version": "1.18.8",
+          "reason": "npm failed to publish"
+        }
       }
     }
   },
