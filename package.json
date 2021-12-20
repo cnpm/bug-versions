@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.57.1",
+  "version": "0.0.0-development",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
