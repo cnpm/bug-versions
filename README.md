@@ -24,4 +24,4 @@ Can use on npminstall, see https://github.com/cnpm/npminstall/pull/256.
 
 ## Contributors
 
-[![](https://badges.implements.io/api/contributors?org=cnpm&repo=bug-versions&width=1250&size=96&padding=6)](https://github.com/cnpm/bug-versions/graphs/contributors)
+[![](https://ergatejs.implements.io/badges/contributors/cnpm/bug-versions.svg?width=1250&size=96&padding=6)](https://github.com/cnpm/bug-versions/graphs/contributors)
