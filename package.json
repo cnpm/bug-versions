@@ -119,7 +119,7 @@
       "faker": {
         "6.6.6": {
           "version": "5.5.3",
-          "reason": "https://github.com/Marak/faker.js/pull/2"
+          "reason": "Please use https://github.com/MilosPaunovic/community-faker instead"
         }
       },
       "colors": {
