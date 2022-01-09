@@ -120,6 +120,10 @@
         "1.4.44-liberty-2": {
           "version": "1.4.0",
           "reason": "https://github.com/Marak/colors.js/issues/285"
+        },
+        "1.4.1": {
+          "version": "1.4.0",
+          "reason": "https://github.com/Marak/colors.js/issues/285"
         }
       },
       "gifsicle": {
