@@ -116,6 +116,12 @@
       }
     },
     "bug-versions": {
+      "faker": {
+        "6.6.6": {
+          "version": "5.5.3",
+          "reason": "Please use https://github.com/MilosPaunovic/community-faker instead"
+        }
+      },
       "colors": {
         "1.4.44-liberty-2": {
           "version": "1.4.0",
