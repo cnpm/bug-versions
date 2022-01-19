@@ -826,6 +826,12 @@
           "version": "1.18.8",
           "reason": "npm failed to publish"
         }
+      },
+      "@types/history": {
+        "5.0.0": {
+          "version": "4.7.11",
+          "reason": "@types/history@5.0.0 add history as dependency which can cause bug in some cases"
+        }
       }
     }
   },
