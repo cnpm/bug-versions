@@ -826,6 +826,16 @@
           "version": "1.18.8",
           "reason": "npm failed to publish"
         }
+      },
+      "jsdoc": {
+        "3.6.9": {
+          "version": "3.6.7",
+          "reason": "npx force-resolutions runs timeout"
+        },
+        "3.6.8": {
+          "version": "3.6.7",
+          "reason": "npx force-resolutions runs timeout"
+        }
       }
     }
   },
