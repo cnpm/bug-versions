@@ -836,6 +836,12 @@
           "version": "3.6.7",
           "reason": "npx force-resolutions runs timeout"
         }
+      },
+      "@types/superagent": {
+        "4.1.15": {
+          "version": "4.1.14",
+          "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/58445"
+        }
       }
     }
   },
