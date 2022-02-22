@@ -852,7 +852,7 @@
       },
       "which-pm-runs": {
         "1.1.0": {
-          "version": "1.1.0",
+          "version": "1.0.0",
           "reason": "https://github.com/zkochan/packages/commit/e7af82f03f1afe6086312d80a0fa47eb8d1c6bff"
         }
       }
