@@ -861,6 +861,12 @@
           "version": "5.0.7",
           "reason": "https://github.com/aliyun/aliyun-tablestore-nodejs-sdk/issues/53"
         }
+      },
+      "eslint-plugin-react": {
+        "7.29.0": {
+          "version": "7.28.0",
+          "reason": "https://github.com/yannickcr/eslint-plugin-react/issues/3215"
+        }
       }
     }
   },
