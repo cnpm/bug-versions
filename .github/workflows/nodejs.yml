@@ -15,6 +15,9 @@ on:
   schedule:
     - cron: '0 2 * * *'
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ${{ matrix.os }}
@@ -26,6 +29,11 @@ jobs:
         os: [ubuntu-latest]
 
     steps:
+    - name: Harden Runner
+      uses: step-security/harden-runner@v1
+      with:
+        egress-policy: audit # TODO: change to 'egress-policy: block' after couple of runs
+
     - name: Checkout Git Source
       uses: actions/checkout@v2
 
