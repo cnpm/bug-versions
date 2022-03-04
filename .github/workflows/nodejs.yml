@@ -36,6 +36,7 @@ jobs:
         disable-telemetry: true
         allowed-endpoints: >
           github.com:443
+          registry.npmjs.com:443
           registry.npmjs.org:443
 
     - name: Checkout Git Source
