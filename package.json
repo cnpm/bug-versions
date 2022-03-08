@@ -865,12 +865,6 @@
           "version": "5.0.7",
           "reason": "https://github.com/aliyun/aliyun-tablestore-nodejs-sdk/issues/53"
         }
-      },
-      "color": {
-        "4.2.1": {
-          "version": "4.2.0",
-          "reason": "https://github.com/Qix-/color/issues/247"
-        }
       }
     }
   },
