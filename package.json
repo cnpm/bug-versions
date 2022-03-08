@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "contributor": "git-contributor",
-    "test": "node test.js",
+    "test": "node test.js && find-duplicated-property-keys -s package.json",
     "ci": "npm run lint:commit && npm test",
     "semantic-release": "semantic-release",
     "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
@@ -873,6 +873,7 @@
     "@commitlint/config-angular": "^9.0.1",
     "@semantic-release/changelog": "^3.0.2",
     "egg-ci": "^1.15.0",
+    "find-duplicated-property-keys": "^1.2.7",
     "git-contributor": "^1.0.10",
     "husky": "^4.2.5",
     "semantic-release": "^17.3.9"
