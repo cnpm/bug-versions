@@ -865,6 +865,20 @@
           "version": "5.0.7",
           "reason": "https://github.com/aliyun/aliyun-tablestore-nodejs-sdk/issues/53"
         }
+      },
+      "node-ipc": {
+        "9.2.2": {
+          "version": "9.2.1",
+          "reason": "https://github.com/RIAEvangelist/node-ipc/issues/233"
+        },
+        "11.0.0": {
+          "version": "10.1.0",
+          "reason": "https://github.com/RIAEvangelist/node-ipc/issues/233"
+        },
+        "11.1.0": {
+          "version": "10.1.0",
+          "reason": "https://github.com/RIAEvangelist/node-ipc/issues/233"
+        }
       }
     }
   },
