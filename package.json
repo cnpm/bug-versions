@@ -879,6 +879,12 @@
           "version": "10.1.0",
           "reason": "https://github.com/RIAEvangelist/node-ipc/issues/233"
         }
+      },
+      "lru-cache": {
+        "7.7.0": {
+          "version": "7.6.0",
+          "reason": "https://github.com/isaacs/node-lru-cache/pull/217/files"
+        }
       }
     }
   },
