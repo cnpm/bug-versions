@@ -885,6 +885,12 @@
           "version": "7.6.0",
           "reason": "https://github.com/isaacs/node-lru-cache/pull/217/files"
         }
+      },
+      "styled-components": {
+        "5.3.4": {
+          "version": "5.3.3",
+          "reason": "https://github.com/styled-components/styled-components/issues/3706"
+        }
       }
     }
   },
