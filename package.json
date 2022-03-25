@@ -910,7 +910,7 @@
     "git-contributor": "^1.0.10",
     "husky": "^4.2.5",
     "node-core-test": "^1.1.0",
-    "semantic-release": "^17.3.9"
+    "semantic-release": "^18.0.1"
   },
   "ci": {
     "type": "github",
