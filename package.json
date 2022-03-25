@@ -890,6 +890,13 @@
         "5.3.4": {
           "version": "5.3.3",
           "reason": "https://github.com/styled-components/styled-components/issues/3706"
+        },
+        "5.3.5": {
+          "version": "5.3.5",
+          "scripts": {
+            "postinstall": ""
+          },
+          "reason": "https://github.com/styled-components/styled-components/commit/ba9d732ca7da53f2a095e35450ecffd592c6f5ba"
         }
       }
     }
@@ -902,6 +909,7 @@
     "find-duplicated-property-keys": "^1.2.7",
     "git-contributor": "^1.0.10",
     "husky": "^4.2.5",
+    "node-core-test": "^1.1.0",
     "semantic-release": "^17.3.9"
   },
   "ci": {
