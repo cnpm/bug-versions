@@ -904,7 +904,7 @@
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-angular": "^9.0.1",
-    "@semantic-release/changelog": "^3.0.2",
+    "@semantic-release/changelog": "^6.0.1",
     "egg-ci": "^1.15.0",
     "find-duplicated-property-keys": "^1.2.7",
     "git-contributor": "^1.0.10",
