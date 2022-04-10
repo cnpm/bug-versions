@@ -121,6 +121,12 @@
       }
     },
     "bug-versions": {
+      "event-source-polyfill": {
+        "1.0.26": {
+          "version": "1.0.25",
+          "reason": "Undesired Behavior https://security.snyk.io/vuln/SNYK-JS-EVENTSOURCEPOLYFILL-2429580, issues: https://github.com/Yaffle/EventSource/issues/199"
+        }
+      },
       "faker": {
         "6.6.6": {
           "version": "5.5.3",
