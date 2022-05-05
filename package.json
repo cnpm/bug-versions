@@ -904,6 +904,12 @@
           },
           "reason": "https://github.com/styled-components/styled-components/commit/ba9d732ca7da53f2a095e35450ecffd592c6f5ba"
         }
+      },
+      "@babel/traverse": {
+        "7.17.10": {
+          "version": "7.17.9",
+          "reason": "https://github.com/babel/babel/issues/14525"
+        }
       }
     }
   },
