@@ -892,6 +892,12 @@
           "reason": "https://github.com/isaacs/node-lru-cache/pull/217/files"
         }
       },
+      "ip": {
+        "1.1.6": {
+          "version": "1.1.5",
+          "reason": "https://github.com/indutny/node-ip/issues/115"
+        }
+      },
       "styled-components": {
         "5.3.4": {
           "version": "5.3.3",
