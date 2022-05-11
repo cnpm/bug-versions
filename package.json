@@ -893,6 +893,10 @@
         }
       },
       "ip": {
+        "1.1.7": {
+          "version": "1.1.5",
+          "reason": "https://github.com/indutny/node-ip/issues/115"
+        },
         "1.1.6": {
           "version": "1.1.5",
           "reason": "https://github.com/indutny/node-ip/issues/115"
