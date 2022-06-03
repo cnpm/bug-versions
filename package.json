@@ -925,8 +925,8 @@
     "find-duplicated-property-keys": "^1.2.7",
     "git-contributor": "^1.0.10",
     "husky": "^4.2.5",
-    "node-core-test": "^2.0.0",
-    "semantic-release": "^18.0.1"
+    "semantic-release": "^18.0.1",
+    "test": "^3.0.0"
   },
   "ci": {
     "type": "github",
