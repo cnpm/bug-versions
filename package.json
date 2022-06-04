@@ -9,7 +9,7 @@
   "scripts": {
     "contributor": "git-contributor",
     "test": "node--test && find-duplicated-property-keys -s package.json",
-    "ci": "npm run lint:commit && npm test",
+    "ci": "npm run lint:commit && c8 npm test",
     "semantic-release": "semantic-release",
     "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
@@ -915,7 +915,8 @@
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-angular": "^9.0.1",
     "@semantic-release/changelog": "^6.0.1",
-    "egg-ci": "^1.15.0",
+    "c8": "^7.11.3",
+    "egg-ci": "^2.1.0",
     "find-duplicated-property-keys": "^1.2.7",
     "git-contributor": "^1.0.10",
     "husky": "^4.2.5",
@@ -923,11 +924,7 @@
     "test": "^3.0.0"
   },
   "ci": {
-    "type": "github",
-    "os": {
-      "github": "linux"
-    },
-    "version": "16.x"
+    "version": "16"
   },
   "release": {
     "branche": "master",
