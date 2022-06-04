@@ -2,7 +2,8 @@
 
 const assert = require('assert');
 const test = require('test');
-const bugVersions = require('.');
+const bugVersions = require('..');
+const pkg = require('../package');
 
 test('should get bug-versions', () => {
   let pkgCount = 0;
@@ -34,7 +35,6 @@ test('should get bug-versions', () => {
 });
 
 test('should get "config" field from package.json', () => {
-  const pkg = require('./package');
   assert(pkg.config['unsafe-node-versions']);
   // console.log('unsafe-node-versions: %s', JSON.stringify(pkg.config['unsafe-node-versions'], null, 2));
   assert(pkg.config['unsafe-alinode-versions']);
