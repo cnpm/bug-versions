@@ -9,7 +9,7 @@
   "scripts": {
     "contributor": "git-contributor",
     "test": "node--test && find-duplicated-property-keys -s package.json",
-    "ci": "npm run lint:commit && c8 npm test",
+    "ci": "npm run lint:commit && c8 -r text-summary -r json-summary -r json -r lcov npm test",
     "semantic-release": "semantic-release",
     "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
