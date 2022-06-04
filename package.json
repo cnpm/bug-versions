@@ -924,7 +924,8 @@
     "test": "^3.0.0"
   },
   "ci": {
-    "version": "16"
+    "version": "16",
+    "os": "linux"
   },
   "release": {
     "branche": "master",
