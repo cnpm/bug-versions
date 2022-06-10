@@ -912,6 +912,12 @@
           },
           "reason": "https://github.com/styled-components/styled-components/commit/ba9d732ca7da53f2a095e35450ecffd592c6f5ba"
         }
+      },
+      "easydl": {
+        "1.0.2": {
+          "version": "1.0.1",
+          "reason": "https://github.com/andresusanto/easydl/issues/4"
+        }
       }
     }
   },
