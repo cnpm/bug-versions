@@ -918,6 +918,12 @@
           "version": "1.0.1",
           "reason": "https://github.com/andresusanto/easydl/issues/4"
         }
+      },
+      "node-zookeeper-client": {
+        "1.1.2": {
+          "version": "1.1.1",
+          "reason": "https://github.com/alexguan/node-zookeeper-client/issues/121"
+        }
       }
     }
   },
