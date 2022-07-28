@@ -924,6 +924,15 @@
           "version": "1.1.1",
           "reason": "https://github.com/alexguan/node-zookeeper-client/issues/121"
         }
+      },
+      "es5-ext": {
+        "0.10.61": {
+          "version": "0.10.61",
+          "scripts": {
+            "postinstall": ""
+          },
+          "reason": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2"
+        }
       }
     }
   },
