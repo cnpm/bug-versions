@@ -21,6 +21,12 @@
   "homepage": "https://github.com/umijs/es5-imcompatible-versions#readme",
   "config": {
     "es5-imcompatible-versions": {
+      "antd-mobile": {
+        "^5.21.0": {
+          "version": "^5.21.0",
+          "reason": "see https://github.com/ant-design/ant-design-mobile"
+        }
+      },
       "fuse.js": {
         "^6.4.6": {
           "version": "^6.4.6",
