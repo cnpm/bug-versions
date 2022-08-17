@@ -415,6 +415,18 @@
           "reason": "https://github.com/react-spring/react-spring"
         }
       },
+      "@react-spring/rafz": {
+        "^9.5.2": {
+          "version": "^9",
+          "reason": "https://github.com/pmndrs/react-spring/blob/master/packages/rafz/src/index.ts"
+        }
+      },
+      "@react-spring/shared": {
+        "^9.5.2": {
+          "version": "^9",
+          "reason": "https://github.com/pmndrs/react-spring/tree/master/packages/shared"
+        }
+      },
       "@supermap/iclient-common": {
         "*": {
           "version": "*",
