@@ -7,7 +7,8 @@
     "index.js"
   ],
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "release": "npm version patch && npm publish && git push origin master --tags"
   },
   "repository": {
     "type": "git",
