@@ -113,15 +113,10 @@
         "node": "12.22.9",
         "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
       },
-      ">= 6.0.0 < 6.7.1": {
-        "version": "6.7.1",
-        "node": "14.18.3",
-        "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
-      },
-      "6.8.0": {
+      ">= 6.0.0 < 6.8.1": {
         "version": "6.8.1",
         "node": "14.19.2",
-        "reason": "has no SHASUMS256.txt"
+        "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
       },
       ">= 7.0.0 < 7.4.0": {
         "version": "7.4.0",
