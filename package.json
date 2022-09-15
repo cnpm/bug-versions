@@ -939,6 +939,12 @@
           "version": "4.17.30",
           "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/62240/files"
         }
+      },
+      "@babel/runtime-corejs2": {
+        "7.19.1": {
+          "version": "7.19.0",
+          "reason": "https://github.com/babel/babel/issues/14936"
+        }
       }
     }
   },
