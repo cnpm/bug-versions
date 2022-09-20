@@ -934,12 +934,6 @@
           "reason": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2"
         }
       },
-      "@types/express-serve-static-core": {
-        "4.17.31": {
-          "version": "4.17.30",
-          "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/pull/62240/files"
-        }
-      },
       "@babel/runtime-corejs2": {
         "7.19.1": {
           "version": "7.19.0",
