@@ -66,25 +66,25 @@
         "version": "13.8.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
       },
-      ">= 14.0.0 < 14.20.0": {
-        "version": "14.20.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2022-security-releases/"
+      ">= 14.0.0 < 14.20.1": {
+        "version": "14.20.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       },
-      ">= 15.0.0 < 16.16.0": {
-        "version": "16.16.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2022-security-releases/"
+      ">= 15.0.0 < 16.17.1": {
+        "version": "16.17.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       },
-      ">= 16.0.0 < 16.16.0": {
-        "version": "16.16.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2022-security-releases/"
+      ">= 16.0.0 < 16.17.1": {
+        "version": "16.17.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       },
-      ">= 17.0.0 < 18.5.0": {
-        "version": "18.5.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2022-security-releases/"
+      ">= 17.0.0 < 18.9.1": {
+        "version": "18.9.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       },
-      ">= 18.0.0 < 18.5.0": {
-        "version": "18.5.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/july-2022-security-releases/"
+      ">= 18.0.0 < 18.9.1": {
+        "version": "18.9.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
@@ -118,9 +118,9 @@
         "node": "14.19.2",
         "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
       },
-      ">= 7.0.0 < 7.4.0": {
-        "version": "7.4.0",
-        "node": "16.13.2",
+      ">= 7.0.0 < 7.6.0": {
+        "version": "7.6.0",
+        "node": "16.15.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
       }
     },
