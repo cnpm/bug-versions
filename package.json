@@ -119,8 +119,8 @@
         "reason": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/"
       },
       ">= 7.0.0 < 7.7.0": {
-        "version": "7.6.0",
-        "node": "16.15.0",
+        "version": "7.7.0",
+        "node": "16.17.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
       }
     },
