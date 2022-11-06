@@ -54,37 +54,21 @@
         "version": "10.24.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2021-security-releases/"
       },
-      ">= 11.0.0 < 11.10.1": {
-        "version": "11.10.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/"
-      },
       ">= 12.0.0 < 12.22.11": {
         "version": "12.22.11",
         "reason": "https://nodejs.org/en/blog/vulnerability/mar-2022-security-releases/"
       },
-      ">= 13.0.0 < 13.8.0": {
-        "version": "13.8.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/"
+      ">= 14.0.0 < 14.21.1": {
+        "version": "14.21.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
       },
-      ">= 14.0.0 < 14.20.1": {
-        "version": "14.20.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
+      ">= 16.0.0 < 16.18.1": {
+        "version": "16.18.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
       },
-      ">= 15.0.0 < 16.17.1": {
-        "version": "16.17.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
-      },
-      ">= 16.0.0 < 16.17.1": {
-        "version": "16.17.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
-      },
-      ">= 17.0.0 < 18.9.1": {
-        "version": "18.9.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
-      },
-      ">= 18.0.0 < 18.9.1": {
-        "version": "18.9.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/"
+      ">= 18.0.0 < 18.12.1": {
+        "version": "18.12.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
       }
     },
     "unsafe-alinode-versions": {
