@@ -109,6 +109,12 @@
       }
     },
     "bug-versions": {
+      "language-tags": {
+        "1.0.6": {
+          "version": "1.0.5",
+          "reason": "not compatible with node 10."
+        }
+      },
       "event-source-polyfill": {
         "1.0.26": {
           "version": "1.0.25",
