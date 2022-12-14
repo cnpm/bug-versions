@@ -545,6 +545,18 @@
           "version": "1.5.0",
           "reason": "https://github.com/soldair/node-qrcode/blob/f08fd572d7cca92c8b9d71b24cebccf61663d4a6/lib/core/byte-data.js#L22"
         }
+      },
+      "parse5": {
+        "7.1.2": {
+          "version": "^7.0.0",
+          "reason": "https://github.com/inikulin/parse5/releases/tag/v7.0.0"
+        }
+      },
+      "htmlparser2": {
+        "8.0.1": {
+          "version": "^8.0.0",
+          "reason": "https://github.com/fb55/htmlparser2/releases/tag/v8.0.0"
+        }
       }
     }
   }
