@@ -1,5 +1,3 @@
-'use strict';
-
 const assert = require('assert');
 const test = require('test');
 const bugVersions = require('..');

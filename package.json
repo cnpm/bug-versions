@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.70.7",
+  "version": "1.83.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -9,14 +9,22 @@
   "scripts": {
     "contributor": "git-contributor",
     "test": "node--test && find-duplicated-property-keys -s package.json",
-    "ci": "npm run lint:commit && c8 -r text-summary -r json-summary -r json -r lcov npm test",
-    "semantic-release": "semantic-release",
-    "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
+    "ci": "npm run lint && c8 -r text-summary -r json-summary -r json -r lcov npm test",
+    "lint": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-angular": "^9.0.1",
+    "c8": "^7.11.3",
+    "find-duplicated-property-keys": "^1.2.7",
+    "git-contributor": "^1.0.10",
+    "husky": "^4.2.5",
+    "test": "^3.0.0"
   },
   "repository": {
     "type": "git",
@@ -943,37 +951,5 @@
         }
       }
     }
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^9.0.1",
-    "@commitlint/config-angular": "^9.0.1",
-    "@semantic-release/changelog": "^6.0.1",
-    "c8": "^7.11.3",
-    "egg-ci": "^2.1.0",
-    "find-duplicated-property-keys": "^1.2.7",
-    "git-contributor": "^1.0.10",
-    "husky": "^4.2.5",
-    "semantic-release": "^18.0.1",
-    "test": "^3.0.0"
-  },
-  "ci": {
-    "version": "16",
-    "os": "linux"
-  },
-  "release": {
-    "branche": "master",
-    "tagFormat": "${version}",
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      [
-        "@semantic-release/changelog",
-        {
-          "changelogFile": "History.md"
-        }
-      ],
-      "@semantic-release/npm",
-      "@semantic-release/github"
-    ]
   }
 }
