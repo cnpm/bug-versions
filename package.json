@@ -967,6 +967,12 @@
           "version": "1.3.44",
           "reason": "https://github.com/swc-project/swc/issues/7203"
         }
+      },
+      "undici": {
+        "5.22.0": {
+          "version": "5.21.2",
+          "reason": "https://github.com/nodejs/undici/pull/2091"
+        }
       }
     }
   }
