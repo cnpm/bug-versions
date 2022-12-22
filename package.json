@@ -949,6 +949,12 @@
           "version": "1.11.3",
           "reason": "https://github.com/grpc/grpc-node/issues/2287"
         }
+      },
+      "@babel/plugin-transform-block-scoping": {
+        "7.20.7": {
+          "version": "7.20.5",
+          "reason": "https://github.com/babel/babel/issues/15295"
+        }
       }
     }
   }
