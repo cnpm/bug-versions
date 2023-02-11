@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.85.0](https://github.com/cnpm/bug-versions/compare/v1.84.0...v1.85.0) (2023-02-11)
+
+
+### Features
+
+* vuescroll@4.17.4 => vuescroll@4.17.3 ([#223](https://github.com/cnpm/bug-versions/issues/223)) ([43c771e](https://github.com/cnpm/bug-versions/commit/43c771e574626135792e010c325eee01ea631761))
+
 ## [1.84.0](https://github.com/cnpm/bug-versions/compare/v1.83.1...v1.84.0) (2023-01-02)
 
 
