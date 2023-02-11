@@ -949,6 +949,12 @@
           "version": "7.20.5",
           "reason": "https://github.com/babel/babel/issues/15295"
         }
+      },
+      "vuescroll": {
+        "4.17.4": {
+          "version": "4.17.3",
+          "reason": "https://github.com/YvesCoding/vuescroll/issues/285"
+        }
       }
     }
   }
