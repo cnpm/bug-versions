@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.86.0](https://github.com/cnpm/bug-versions/compare/v1.85.0...v1.86.0) (2023-02-16)
+
+
+### Features
+
+* use esquery's 1.4.0 instead of 1.4.1 ([#225](https://github.com/cnpm/bug-versions/issues/225)) ([5ba5a15](https://github.com/cnpm/bug-versions/commit/5ba5a1536fb1717cd10763ebf8d16daa688ba636))
+
 ## [1.85.0](https://github.com/cnpm/bug-versions/compare/v1.84.0...v1.85.0) (2023-02-11)
 
 
