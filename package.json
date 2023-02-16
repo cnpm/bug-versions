@@ -955,6 +955,12 @@
           "version": "4.17.3",
           "reason": "https://github.com/YvesCoding/vuescroll/issues/285"
         }
+      },
+      "esquery": {
+        "1.4.1": {
+          "version": "1.4.0",
+          "reason": "https://github.com/estools/esquery/issues/135"
+        }
       }
     }
   }
