@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.87.0](https://github.com/cnpm/bug-versions/compare/v1.86.0...v1.87.0) (2023-02-18)
+
+
+### Features
+
+* nodejs thursday february 16 2023 security releases ([#226](https://github.com/cnpm/bug-versions/issues/226)) ([586c0a5](https://github.com/cnpm/bug-versions/commit/586c0a56088e169e65fd363e34aaac8be24b6b4f))
+
 ## [1.86.0](https://github.com/cnpm/bug-versions/compare/v1.85.0...v1.86.0) (2023-02-16)
 
 
