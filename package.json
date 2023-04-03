@@ -70,12 +70,12 @@
         "version": "14.21.3",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
       },
-      ">= 16.0.0 < 16.19.1": {
-        "version": "16.19.1",
+      ">= 16.0.0 < 16.20.0": {
+        "version": "16.20.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
       },
-      ">= 18.0.0 < 18.14.1": {
-        "version": "18.14.1",
+      ">= 18.0.0 < 18.15.0": {
+        "version": "18.15.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
       }
     },
