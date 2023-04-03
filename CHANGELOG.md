@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.87.1](https://github.com/cnpm/bug-versions/compare/v1.87.0...v1.87.1) (2023-04-03)
+
+
+### Bug Fixes
+
+* upgrade node.js 16/18 security versions to latest ([#227](https://github.com/cnpm/bug-versions/issues/227)) ([47e032f](https://github.com/cnpm/bug-versions/commit/47e032ff34da2575c94f6ea1f9ba4441ad4f2fc4))
+
 ## [1.87.0](https://github.com/cnpm/bug-versions/compare/v1.86.0...v1.87.0) (2023-02-18)
 
 
