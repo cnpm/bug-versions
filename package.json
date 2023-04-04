@@ -961,6 +961,12 @@
           "version": "1.4.0",
           "reason": "https://github.com/estools/esquery/issues/135"
         }
+      },
+      "@swc/core": {
+        "1.3.45": {
+          "version": "1.3.44",
+          "reason": "https://github.com/swc-project/swc/issues/7203"
+        }
       }
     }
   }
