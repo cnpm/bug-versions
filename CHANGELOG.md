@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.88.0](https://github.com/cnpm/bug-versions/compare/v1.87.1...v1.88.0) (2023-04-04)
+
+
+### Features
+
+* add @swc/core used @swc/helpers mismatch version range ([#228](https://github.com/cnpm/bug-versions/issues/228)) ([049d2f6](https://github.com/cnpm/bug-versions/commit/049d2f6335f1332b93c2cbe62b587a3a54512d12))
+
 ## [1.87.1](https://github.com/cnpm/bug-versions/compare/v1.87.0...v1.87.1) (2023-04-03)
 
 
