@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.89.0](https://github.com/cnpm/bug-versions/compare/v1.88.0...v1.89.0) (2023-04-27)
+
+
+### Features
+
+* add undici bug-version config ([#229](https://github.com/cnpm/bug-versions/issues/229)) ([4128d87](https://github.com/cnpm/bug-versions/commit/4128d8721153bd924bbe947513da382f55e32a28))
+
 ## [1.88.0](https://github.com/cnpm/bug-versions/compare/v1.87.1...v1.88.0) (2023-04-04)
 
 
