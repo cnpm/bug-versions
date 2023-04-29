@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.90.0](https://github.com/cnpm/bug-versions/compare/v1.89.0...v1.90.0) (2023-04-29)
+
+
+### Features
+
+* add @babel/compat-data ([#230](https://github.com/cnpm/bug-versions/issues/230)) ([eac1796](https://github.com/cnpm/bug-versions/commit/eac179657382cb2e29ed2e05cacb1cd87362863c))
+
 ## [1.89.0](https://github.com/cnpm/bug-versions/compare/v1.88.0...v1.89.0) (2023-04-27)
 
 
