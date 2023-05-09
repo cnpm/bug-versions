@@ -979,6 +979,12 @@
           "version": "7.21.4",
           "reason": "https://github.com/babel/babel/issues/15597"
         }
+      },
+      "alertify.js": {
+        "1.0.12": {
+          "version": "1.0.11",
+          "reason": "https://github.com/alertifyjs/alertify.js/issues/160"
+        }
       }
     }
   }
