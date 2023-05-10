@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.91.0](https://github.com/cnpm/bug-versions/compare/v1.90.0...v1.91.0) (2023-05-10)
+
+
+### Features
+
+* add alertify.js ([#231](https://github.com/cnpm/bug-versions/issues/231)) ([5ecf670](https://github.com/cnpm/bug-versions/commit/5ecf67076ce23eae85c0950b070e88493ed929ec))
+
 ## [1.90.0](https://github.com/cnpm/bug-versions/compare/v1.89.0...v1.90.0) (2023-04-29)
 
 
