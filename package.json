@@ -22,13 +22,13 @@
     "@commitlint/config-angular": "^9.0.1",
     "c8": "^7.11.3",
     "find-duplicated-property-keys": "^1.2.7",
-    "git-contributor": "^1.0.10",
+    "git-contributor": "2",
     "husky": "^4.2.5",
     "test": "^3.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnpm/bug-versions.git"
+    "url": "git@github.com:cnpm/bug-versions.git"
   },
   "author": "fengmk2",
   "license": "MIT",
