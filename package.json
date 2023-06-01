@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.91.0",
+  "version": "1.92.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -992,7 +992,6 @@
           "reason": "https://github.com/json-schema-faker/json-schema-faker/issues/767"
         }
       }
-
     }
   }
 }

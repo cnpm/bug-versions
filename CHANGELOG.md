@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.92.0](https://github.com/cnpm/bug-versions/compare/v1.91.0...v1.92.0) (2023-06-01)
+
+
+### Features
+
+* adds json-schema-faker 0.5.0 ([#233](https://github.com/cnpm/bug-versions/issues/233)) ([7ccf4d6](https://github.com/cnpm/bug-versions/commit/7ccf4d6bc8ee9bfc91047f9aa01889c0b8db6037))
+
 ## [1.91.0](https://github.com/cnpm/bug-versions/compare/v1.90.0...v1.91.0) (2023-05-10)
 
 
