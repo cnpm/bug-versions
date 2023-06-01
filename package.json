@@ -988,8 +988,8 @@
       },
       "json-schema-faker": {
         "0.5.0": {
-          "version": "0.5.0",
-          "reason": "发布的是空包，并没有代码文件"
+          "version": "0.5.0-rcv.46",
+          "reason": "https://github.com/json-schema-faker/json-schema-faker/issues/767"
         }
       }
 
