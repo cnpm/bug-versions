@@ -70,13 +70,17 @@
         "version": "14.21.3",
         "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
       },
-      ">= 16.0.0 < 16.20.0": {
-        "version": "16.20.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
+      ">= 16.0.0 < 16.20.1": {
+        "version": "16.20.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
       },
-      ">= 18.0.0 < 18.15.0": {
-        "version": "18.15.0",
-        "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
+      ">= 18.0.0 < 18.16.1": {
+        "version": "18.16.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
+      },
+      ">= 20.0.0 < 20.3.1": {
+        "version": "20.3.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
       }
     },
     "unsafe-alinode-versions": {
