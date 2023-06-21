@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.93.0](https://github.com/cnpm/bug-versions/compare/v1.92.0...v1.93.0) (2023-06-21)
+
+
+### Features
+
+* node.js tuesday june 20 2023 security releases ([#235](https://github.com/cnpm/bug-versions/issues/235)) ([0a187f1](https://github.com/cnpm/bug-versions/commit/0a187f13dfcefd5663857623fd53771f2e85ebb5))
+
 ## [1.92.0](https://github.com/cnpm/bug-versions/compare/v1.91.0...v1.92.0) (2023-06-01)
 
 
