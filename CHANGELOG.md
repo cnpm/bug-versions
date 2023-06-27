@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.94.0](https://github.com/cnpm/bug-versions/compare/v1.93.0...v1.94.0) (2023-06-27)
+
+
+### Features
+
+* add file-system-cache@2.4.0 ([#236](https://github.com/cnpm/bug-versions/issues/236)) ([d21bdb5](https://github.com/cnpm/bug-versions/commit/d21bdb54d67b6c2ff75fee5207e642c6c49f6b5b))
+
 ## [1.93.0](https://github.com/cnpm/bug-versions/compare/v1.92.0...v1.93.0) (2023-06-21)
 
 
