@@ -995,6 +995,12 @@
           "version": "0.5.0-rcv.46",
           "reason": "https://github.com/json-schema-faker/json-schema-faker/issues/767"
         }
+      },
+      "file-system-cache": {
+        "2.4.0": {
+          "version": "2.3.0",
+          "reason": "https://github.com/philcockfield/file-system-cache/issues/30"
+        }
       }
     }
   }
