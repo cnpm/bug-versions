@@ -1001,6 +1001,12 @@
           "version": "2.3.0",
           "reason": "https://github.com/philcockfield/file-system-cache/issues/30"
         }
+      },
+      "@babel/traverse": {
+        "7.22.7": {
+          "version": "7.22.6",
+          "reason": "https://github.com/babel/babel/issues/15752"
+        }
       }
     }
   }
