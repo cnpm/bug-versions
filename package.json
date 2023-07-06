@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.70.7",
+  "version": "1.94.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -9,18 +9,26 @@
   "scripts": {
     "contributor": "git-contributor",
     "test": "node--test && find-duplicated-property-keys -s package.json",
-    "ci": "npm run lint:commit && c8 -r text-summary -r json-summary -r json -r lcov npm test",
-    "semantic-release": "semantic-release",
-    "lint:commit": "git log -1 --pretty=format:\"%s\" | commitlint"
+    "ci": "npm run lint && c8 -r text-summary -r json-summary -r json -r lcov npm test",
+    "lint": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
+  "devDependencies": {
+    "@commitlint/cli": "^9.0.1",
+    "@commitlint/config-angular": "^9.0.1",
+    "c8": "^7.11.3",
+    "find-duplicated-property-keys": "^1.2.7",
+    "git-contributor": "2",
+    "husky": "^4.2.5",
+    "test": "^3.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnpm/bug-versions.git"
+    "url": "git@github.com:cnpm/bug-versions.git"
   },
   "author": "fengmk2",
   "license": "MIT",
@@ -58,17 +66,21 @@
         "version": "12.22.11",
         "reason": "https://nodejs.org/en/blog/vulnerability/mar-2022-security-releases/"
       },
-      ">= 14.0.0 < 14.21.1": {
-        "version": "14.21.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
+      ">= 14.0.0 < 14.21.3": {
+        "version": "14.21.3",
+        "reason": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/"
       },
-      ">= 16.0.0 < 16.18.1": {
-        "version": "16.18.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
+      ">= 16.0.0 < 16.20.1": {
+        "version": "16.20.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
       },
-      ">= 18.0.0 < 18.12.1": {
-        "version": "18.12.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/"
+      ">= 18.0.0 < 18.16.1": {
+        "version": "18.16.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
+      },
+      ">= 20.0.0 < 20.3.1": {
+        "version": "20.3.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases"
       }
     },
     "unsafe-alinode-versions": {
@@ -109,6 +121,12 @@
       }
     },
     "bug-versions": {
+      "language-tags": {
+        "1.0.6": {
+          "version": "1.0.5",
+          "reason": "not compatible with node 10."
+        }
+      },
       "event-source-polyfill": {
         "1.0.26": {
           "version": "1.0.25",
@@ -714,12 +732,6 @@
           "reason": "https://github.com/ant-design/babel-plugin-import/issues/557"
         }
       },
-      "graceful-fs": {
-        "4.2.5": {
-          "version": "4.2.4",
-          "reason": "fs.copyFile breaking change"
-        }
-      },
       "clipboard": {
         "2.0.7": {
           "version": "2.0.6",
@@ -929,39 +941,67 @@
           "version": "1.1044.0",
           "reason": "https://github.com/snyk/cli/issues/4183"
         }
+      },
+      "grpc-tools": {
+        "1.12.0": {
+          "version": "1.11.3",
+          "reason": "https://github.com/grpc/grpc-node/issues/2287"
+        }
+      },
+      "@babel/plugin-transform-block-scoping": {
+        "7.20.7": {
+          "version": "7.20.5",
+          "reason": "https://github.com/babel/babel/issues/15295"
+        }
+      },
+      "vuescroll": {
+        "4.17.4": {
+          "version": "4.17.3",
+          "reason": "https://github.com/YvesCoding/vuescroll/issues/285"
+        }
+      },
+      "esquery": {
+        "1.4.1": {
+          "version": "1.4.0",
+          "reason": "https://github.com/estools/esquery/issues/135"
+        }
+      },
+      "@swc/core": {
+        "1.3.45": {
+          "version": "1.3.44",
+          "reason": "https://github.com/swc-project/swc/issues/7203"
+        }
+      },
+      "undici": {
+        "5.22.0": {
+          "version": "5.21.2",
+          "reason": "https://github.com/nodejs/undici/pull/2091"
+        }
+      },
+      "@babel/compat-data": {
+        "7.21.5": {
+          "version": "7.21.4",
+          "reason": "https://github.com/babel/babel/issues/15597"
+        }
+      },
+      "alertify.js": {
+        "1.0.12": {
+          "version": "1.0.11",
+          "reason": "https://github.com/alertifyjs/alertify.js/issues/160"
+        }
+      },
+      "json-schema-faker": {
+        "0.5.0": {
+          "version": "0.5.0-rcv.46",
+          "reason": "https://github.com/json-schema-faker/json-schema-faker/issues/767"
+        }
+      },
+      "file-system-cache": {
+        "2.4.0": {
+          "version": "2.3.0",
+          "reason": "https://github.com/philcockfield/file-system-cache/issues/30"
+        }
       }
     }
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^9.0.1",
-    "@commitlint/config-angular": "^9.0.1",
-    "@semantic-release/changelog": "^6.0.1",
-    "c8": "^7.11.3",
-    "egg-ci": "^2.1.0",
-    "find-duplicated-property-keys": "^1.2.7",
-    "git-contributor": "^1.0.10",
-    "husky": "^4.2.5",
-    "semantic-release": "^18.0.1",
-    "test": "^3.0.0"
-  },
-  "ci": {
-    "version": "16",
-    "os": "linux"
-  },
-  "release": {
-    "branche": "master",
-    "tagFormat": "${version}",
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      [
-        "@semantic-release/changelog",
-        {
-          "changelogFile": "History.md"
-        }
-      ],
-      "@semantic-release/npm",
-      "@semantic-release/github"
-    ]
   }
 }
