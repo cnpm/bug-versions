@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.95.0](https://github.com/cnpm/bug-versions/compare/v1.94.0...v1.95.0) (2023-07-06)
+
+
+### Features
+
+* set @babel/traverse@7.22.7 to 7.22.6 ([#237](https://github.com/cnpm/bug-versions/issues/237)) ([db130dd](https://github.com/cnpm/bug-versions/commit/db130ddc11b9755413df75e8a30fac9dd03a3e3b))
+
 ## [1.94.0](https://github.com/cnpm/bug-versions/compare/v1.93.0...v1.94.0) (2023-06-27)
 
 
