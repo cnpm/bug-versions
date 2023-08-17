@@ -1007,6 +1007,124 @@
           "version": "7.22.6",
           "reason": "https://github.com/babel/babel/issues/15752"
         }
+      },
+      "fsevents": {
+        "1.2.9": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.8": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.7": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.6": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.4": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.3": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.2": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.10": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.2.0": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.1.3": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.1.2": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.1.1": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.1.0": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.9": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.8": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.7": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.6": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.5": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.4": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.3": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.2": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.17": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.15": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.14": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.12": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.11": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.10": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.1": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        },
+        "1.0.0": {
+          "version": "1.2.11",
+          "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
+        }
       }
     }
   }
