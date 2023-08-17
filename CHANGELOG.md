@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.97.0](https://github.com/cnpm/bug-versions/compare/v1.96.0...v1.97.0) (2023-08-17)
+
+
+### Features
+
+* fsevents 1.x advisories auto fix ([#240](https://github.com/cnpm/bug-versions/issues/240)) ([e032e11](https://github.com/cnpm/bug-versions/commit/e032e1171999a9285fadfbeda2c6cc01cbddbe62))
+
 ## [1.96.0](https://github.com/cnpm/bug-versions/compare/v1.95.0...v1.96.0) (2023-08-10)
 
 
