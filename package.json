@@ -1008,6 +1008,12 @@
           "reason": "https://github.com/babel/babel/issues/15752"
         }
       },
+      "lint-staged": {
+        "13.3.0": {
+          "version": "13.3.0",
+          "reason": "https://github.com/okonet/lint-staged/commit/09844ca3f6b99feba8f3c0ea10e60a6e6df511ad"
+        }
+      },
       "fsevents": {
         "1.2.9": {
           "version": "1.2.11",
