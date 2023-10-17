@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.98.0](https://github.com/cnpm/bug-versions/compare/v1.97.0...v1.98.0) (2023-10-17)
+
+
+### Features
+
+* node.js friday october 13 2023 security releases ([#242](https://github.com/cnpm/bug-versions/issues/242)) ([5382e0d](https://github.com/cnpm/bug-versions/commit/5382e0dc876eeb35c1ff04f4fcec00da931aacf8))
+
 ## [1.97.0](https://github.com/cnpm/bug-versions/compare/v1.96.0...v1.97.0) (2023-08-17)
 
 
