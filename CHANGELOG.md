@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.99.0](https://github.com/cnpm/bug-versions/compare/v1.98.0...v1.99.0) (2024-02-15)
+
+
+### Features
+
+* node.js wednesday february 14 2024 security releases ([#243](https://github.com/cnpm/bug-versions/issues/243)) ([c159038](https://github.com/cnpm/bug-versions/commit/c159038202d1fc57496bb4e4e01fc743c9e62b00))
+
 ## [1.98.0](https://github.com/cnpm/bug-versions/compare/v1.97.0...v1.98.0) (2023-10-17)
 
 
