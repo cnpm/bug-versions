@@ -728,6 +728,10 @@
         "16.14.0": {
           "version": "16.9.56",
           "reason": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49713"
+        },
+        "18.2.66": {
+          "version": "18.2.65",
+          "reason": "https://github.com/ant-design/ant-design-icons/issues/628"
         }
       },
       "babel-plugin-import": {
