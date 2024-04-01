@@ -1129,6 +1129,12 @@
           "version": "1.2.11",
           "reason": "https://github.com/advisories/GHSA-xv2f-5jw4-v95m"
         }
+      },
+      "@types/mime": {
+        "4.0.0": {
+          "version": "3.0.4",
+          "reason": "https://github.com/firebase/firebase-admin-node/issues/2512"
+        }
       }
     }
   }
