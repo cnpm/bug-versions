@@ -350,6 +350,10 @@
         "6.9.0": {
           "version": "6.8.1",
           "reason": "https://github.com/epoberezkin/ajv/issues/941"
+        },
+        "8.15.0": {
+          "version": "8.14.0",
+          "reason": "https://github.com/ajv-validator/ajv/issues/2446"
         }
       },
       "css-animation": {
