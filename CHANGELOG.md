@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.101.1](https://github.com/cnpm/bug-versions/compare/v1.101.0...v1.101.1) (2024-06-04)
+
+
+### Bug Fixes
+
+* ajv 8.15 ([#251](https://github.com/cnpm/bug-versions/issues/251)) ([0c3b8ab](https://github.com/cnpm/bug-versions/commit/0c3b8ab02742348f600938be13d3f272d1cb9de2))
+
 ## [1.100.0](https://github.com/cnpm/bug-versions/compare/v1.99.0...v1.100.0) (2024-04-07)
 
 
