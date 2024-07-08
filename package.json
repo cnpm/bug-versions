@@ -586,7 +586,11 @@
         "2.7.0": {
           "version": "2.6.3",
           "reason": "https://github.com/isaacs/rimraf/issues/194"
-        }
+        },
+        "5.0.8": {
+          "version": "5.0.7",
+          "reason": "https://github.com/isaacs/node-glob/issues/596"
+        },
       },
       "less": {
         "3.10.0": {
@@ -892,6 +896,10 @@
         "7.7.0": {
           "version": "7.6.0",
           "reason": "https://github.com/isaacs/node-lru-cache/pull/217/files"
+        },
+        "10.3.1": {
+          "version": "10.3.0",
+          "reason": "https://github.com/isaacs/node-glob/issues/596"
         }
       },
       "ip": {
@@ -1138,6 +1146,18 @@
         "1.12.0": {
           "version": "1.11.3",
           "reason": "https://github.com/theKashey/react-focus-lock/issues/301"
+        }
+      },
+      "jackspeak": {
+        "3.4.1": {
+          "version": "3.4.0",
+          "reason": "https://github.com/isaacs/node-glob/issues/596"
+        }
+      },
+      "glob": {
+        "10.4.3": {
+          "version": "10.4.2",
+          "reason": "https://github.com/isaacs/node-glob/issues/596"
         }
       }
     }
