@@ -590,7 +590,7 @@
         "5.0.8": {
           "version": "5.0.7",
           "reason": "https://github.com/isaacs/node-glob/issues/596"
-        },
+        }
       },
       "less": {
         "3.10.0": {
