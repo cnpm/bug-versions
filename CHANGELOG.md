@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.101.2](https://github.com/cnpm/bug-versions/compare/v1.101.1...v1.101.2) (2024-07-09)
+
+
+### Bug Fixes
+
+* 处理 glob、lru-cache 等 patch 版本升级 node 依赖的问题  ([#253](https://github.com/cnpm/bug-versions/issues/253)) ([f058e87](https://github.com/cnpm/bug-versions/commit/f058e8711e1b8874327fb8b1130e0a4d1237341d))
+
 ## [1.101.1](https://github.com/cnpm/bug-versions/compare/v1.101.0...v1.101.1) (2024-06-04)
 
 
