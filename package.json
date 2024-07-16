@@ -1018,7 +1018,7 @@
           "reason": "https://github.com/philcockfield/file-system-cache/issues/30"
         },
         "2.4.5": {
-          "version": "2.4.5",
+          "version": "2.4.4",
           "reason": "https://github.com/philcockfield/file-system-cache/issues/49"
         }
       },
