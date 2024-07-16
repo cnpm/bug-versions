@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.102.0](https://github.com/cnpm/bug-versions/compare/v1.101.2...v1.102.0) (2024-07-16)
+
+
+### Features
+
+* file-system-cache breaking change ([#254](https://github.com/cnpm/bug-versions/issues/254)) ([4da7ba6](https://github.com/cnpm/bug-versions/commit/4da7ba60283d91f73eb22d13e7a4c9574d574364))
+
 ## [1.101.2](https://github.com/cnpm/bug-versions/compare/v1.101.1...v1.101.2) (2024-07-09)
 
 
