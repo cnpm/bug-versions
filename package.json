@@ -1026,6 +1026,10 @@
         "7.22.7": {
           "version": "7.22.6",
           "reason": "https://github.com/babel/babel/issues/15752"
+        },
+        "7.25.1": {
+          "version": "7.24.8",
+          "reason": "https://github.com/babel/babel/issues/16684"
         }
       },
       "fsevents": {
