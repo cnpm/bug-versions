@@ -460,6 +460,10 @@
         "3.11.5": {
           "version": "3.11.6",
           "reason": "https://github.com/ant-design/ant-design/commit/6550df34b639ab0b3bf2c1cbf9b9828735c1fd41"
+        },
+        "5.16.3": {
+          "version": "5.16.2",
+          "reason": "https://github.com/ant-design/ant-design/issues/48568"
         }
       },
       "loader-utils": {
