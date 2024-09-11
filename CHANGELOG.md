@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.103.0](https://github.com/cnpm/bug-versions/compare/v1.102.0...v1.103.0) (2024-09-11)
+
+
+### Features
+
+* use path-to-regexp 1.9.0 ([#257](https://github.com/cnpm/bug-versions/issues/257)) ([fd553f9](https://github.com/cnpm/bug-versions/commit/fd553f9061d802c27a2f4031e6a58c40121625c9))
+
 ## [1.102.0](https://github.com/cnpm/bug-versions/compare/v1.101.2...v1.102.0) (2024-07-16)
 
 
