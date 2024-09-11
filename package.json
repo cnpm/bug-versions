@@ -1163,6 +1163,12 @@
           "version": "10.4.2",
           "reason": "https://github.com/isaacs/node-glob/issues/596"
         }
+      },
+      "path-to-regexp": {
+        "1.8.0": {
+          "version": "1.9.0",
+          "reason": "https://github.com/pillarjs/path-to-regexp/security/advisories/GHSA-9wv6-86v2-598j"
+        }
       }
     }
   }
