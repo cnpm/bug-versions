@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.104.0](https://github.com/cnpm/bug-versions/compare/v1.103.0...v1.104.0) (2024-09-12)
+
+
+### Features
+
+* add eslint-plugin-react@7.36.0 ([#258](https://github.com/cnpm/bug-versions/issues/258)) ([946f5bf](https://github.com/cnpm/bug-versions/commit/946f5bfcf8327c30fea5b60dafeee9af4618ecb0))
+
 ## [1.103.0](https://github.com/cnpm/bug-versions/compare/v1.102.0...v1.103.0) (2024-09-11)
 
 
