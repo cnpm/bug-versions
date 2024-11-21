@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.105.0](https://github.com/cnpm/bug-versions/compare/v1.104.0...v1.105.0) (2024-11-21)
+
+
+### Features
+
+* add @swc/types@0.1.16 as a bug version, fallback to 0.1.12 ([#259](https://github.com/cnpm/bug-versions/issues/259)) ([419dee3](https://github.com/cnpm/bug-versions/commit/419dee3c8c63087f186c6a8cfeddeec205a5f666))
+
 ## [1.104.0](https://github.com/cnpm/bug-versions/compare/v1.103.0...v1.104.0) (2024-09-12)
 
 
