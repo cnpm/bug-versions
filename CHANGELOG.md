@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.106.0](https://github.com/cnpm/bug-versions/compare/v1.105.0...v1.106.0) (2024-12-03)
+
+
+### Features
+
+* node.js monday, july 8, 2024 security releases ([#260](https://github.com/cnpm/bug-versions/issues/260)) ([c6b81e3](https://github.com/cnpm/bug-versions/commit/c6b81e340c6a18dc22eb6d9529163aaa7968033b))
+
 ## [1.105.0](https://github.com/cnpm/bug-versions/compare/v1.104.0...v1.105.0) (2024-11-21)
 
 
