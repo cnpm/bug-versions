@@ -1183,6 +1183,16 @@
           "version": "1.9.0",
           "reason": "https://github.com/pillarjs/path-to-regexp/security/advisories/GHSA-9wv6-86v2-598j"
         }
+      },
+      "@jridgewell/gen-mapping": {
+        "0.3.6": {
+          "version": "0.3.5",
+          "reason": "https://github.com/jridgewell/sourcemaps/issues/8"
+        },
+        "0.3.7": {
+          "version": "0.3.5",
+          "reason": "https://github.com/jridgewell/sourcemaps/issues/8"
+        }
       }
     }
   }
