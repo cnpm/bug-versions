@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.108.0](https://github.com/cnpm/bug-versions/compare/v1.107.0...v1.108.0) (2024-12-19)
+
+
+### Features
+
+* @rspack/core and @rspack/cli 1.1.7 are vulnerable versions ([#263](https://github.com/cnpm/bug-versions/issues/263)) ([2561ead](https://github.com/cnpm/bug-versions/commit/2561ead26415a0df08f657f6fe072288eca73da7)), closes [/github.com/web-infra-dev/rspack/issues/8767#issuecomment-2552738907](https://github.com/cnpm//github.com/web-infra-dev/rspack/issues/8767/issues/issuecomment-2552738907)
+
 ## [1.107.0](https://github.com/cnpm/bug-versions/compare/v1.106.0...v1.107.0) (2024-12-19)
 
 
