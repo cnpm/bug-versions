@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.107.0](https://github.com/cnpm/bug-versions/compare/v1.106.0...v1.107.0) (2024-12-19)
+
+
+### Features
+
+* security fix on vant package ([#262](https://github.com/cnpm/bug-versions/issues/262)) ([0d48109](https://github.com/cnpm/bug-versions/commit/0d481095aaaa0a4080d1ddb8bf9941e64d80ebc9))
+
 ## [1.106.0](https://github.com/cnpm/bug-versions/compare/v1.105.0...v1.106.0) (2024-12-03)
 
 
