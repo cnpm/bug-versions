@@ -1183,6 +1183,48 @@
           "version": "1.9.0",
           "reason": "https://github.com/pillarjs/path-to-regexp/security/advisories/GHSA-9wv6-86v2-598j"
         }
+      },
+      "vant": {
+        "4.9.14": {
+          "version": "4.9.15",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "4.9.13": {
+          "version": "4.9.15",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "4.9.12": {
+          "version": "4.9.15",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "4.9.11": {
+          "version": "4.9.15",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "3.6.15": {
+          "version": "3.6.16",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "3.6.14": {
+          "version": "3.6.16",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "3.6.13": {
+          "version": "3.6.16",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "2.13.5": {
+          "version": "2.13.6",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "2.13.4": {
+          "version": "2.13.6",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        },
+        "2.13.3": {
+          "version": "2.13.6",
+          "reason": "https://github.com/youzan/vant/releases/tag/v4.9.15"
+        }
       }
     }
   }
