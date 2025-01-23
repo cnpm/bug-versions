@@ -4,6 +4,8 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 [![Node.js CI][actions-image]][actions-url]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/cnpm/bug-versions)
 
 [npm-image]: https://img.shields.io/npm/v/bug-versions.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/bug-versions
