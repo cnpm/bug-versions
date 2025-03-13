@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.110.0](https://github.com/cnpm/bug-versions/compare/v1.109.0...v1.110.0) (2025-03-13)
+
+
+### Features
+
+* art-template@4.13.3 security issue ([#266](https://github.com/cnpm/bug-versions/issues/266)) ([a861f5c](https://github.com/cnpm/bug-versions/commit/a861f5c27cd3d593c3e7361bda226b5ab7d3fe12))
+
 ## [1.109.0](https://github.com/cnpm/bug-versions/compare/v1.108.0...v1.109.0) (2025-01-23)
 
 
