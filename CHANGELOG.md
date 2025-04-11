@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.110.1](https://github.com/cnpm/bug-versions/compare/v1.110.0...v1.110.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* tsc-alias ([#267](https://github.com/cnpm/bug-versions/issues/267)) ([0c9cf1f](https://github.com/cnpm/bug-versions/commit/0c9cf1f9ea57cb80181f8a47b579d73c1ffc471c))
+
 ## [1.110.0](https://github.com/cnpm/bug-versions/compare/v1.109.0...v1.110.0) (2025-03-13)
 
 
