@@ -78,21 +78,25 @@
         "version": "18.20.6",
         "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
       },
-      ">= 20.0.0 < 20.18.2": {
-        "version": "20.18.2",
-        "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
+      ">= 20.0.0 < 20.19.2": {
+        "version": "20.19.2",
+        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
       },
       ">= 21.0.0 < 21.7.2": {
         "version": "21.7.2",
         "reason": "https://nodejs.org/en/blog/vulnerability/april-2024-security-releases/"
       },
-      ">= 22.0.0 < 22.13.1": {
-        "version": "22.13.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
+      ">= 22.0.0 < 22.15.1": {
+        "version": "22.15.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
       },
-      ">= 23.0.0 < 23.6.1": {
-        "version": "23.6.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
+      ">= 23.0.0 < 23.11.1": {
+        "version": "23.11.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
+      },
+      ">= 24.0.0 < 24.0.2": {
+        "version": "24.0.2",
+        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
       }
     },
     "unsafe-alinode-versions": {
