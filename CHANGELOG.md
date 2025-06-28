@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.112.0](https://github.com/cnpm/bug-versions/compare/v1.111.0...v1.112.0) (2025-06-28)
+
+
+### Features
+
+* css-what@6.2.0 fallback to 6.1.0 ([#269](https://github.com/cnpm/bug-versions/issues/269)) ([5a17ee4](https://github.com/cnpm/bug-versions/commit/5a17ee4ec93caa3828bf4894b39b960193737076))
+
 ## [1.111.0](https://github.com/cnpm/bug-versions/compare/v1.110.1...v1.111.0) (2025-05-15)
 
 
