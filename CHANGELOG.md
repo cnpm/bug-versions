@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.113.0](https://github.com/cnpm/bug-versions/compare/v1.112.0...v1.113.0) (2025-06-28)
+
+
+### Features
+
+* css-select@5.2.1 fallback to 5.2.0 ([#270](https://github.com/cnpm/bug-versions/issues/270)) ([e3d696c](https://github.com/cnpm/bug-versions/commit/e3d696c5ceb713112921cce9b07d1804d6100b97))
+
 ## [1.112.0](https://github.com/cnpm/bug-versions/compare/v1.111.0...v1.112.0) (2025-06-28)
 
 
