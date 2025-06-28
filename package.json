@@ -1267,6 +1267,12 @@
           "version": "6.1.0",
           "reason": "https://github.com/fb55/css-what/issues/1582"
         }
+      },
+      "css-select": {
+        "5.2.1": {
+          "version": "5.2.0",
+          "reason": "https://github.com/fb55/css-select/issues/1590"
+        }
       }
     }
   }
