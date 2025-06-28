@@ -1261,6 +1261,12 @@
           "version": "1.8.13",
           "reason": "https://github.com/justkey007/tsc-alias/issues/244"
         }
+      },
+      "css-what": {
+        "6.2.0": {
+          "version": "6.1.0",
+          "reason": "https://github.com/fb55/css-what/issues/1582"
+        }
       }
     }
   }
