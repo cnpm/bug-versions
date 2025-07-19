@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.114.0](https://github.com/cnpm/bug-versions/compare/v1.113.0...v1.114.0) (2025-07-19)
+
+
+### Features
+
+* is@3.3.1 falback to 3.3.0 ([#271](https://github.com/cnpm/bug-versions/issues/271)) ([a5a352b](https://github.com/cnpm/bug-versions/commit/a5a352bba14a8ad992f6e3316ec60bc11bac4f09))
+
 ## [1.113.0](https://github.com/cnpm/bug-versions/compare/v1.112.0...v1.113.0) (2025-06-28)
 
 
