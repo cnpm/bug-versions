@@ -1252,6 +1252,12 @@
           "reason": "https://github.com/goofychris/art-template/issues/660"
         }
       },
+      "is": {
+        "3.3.1": {
+          "version": "3.3.0",
+          "reason": "https://github.com/enricomarino/is/issues/41"
+        }
+      },
       "tsc-alias": {
         "1.8.14": {
           "version": "1.8.13",
