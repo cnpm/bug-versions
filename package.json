@@ -7,9 +7,9 @@
     "index.js"
   ],
   "scripts": {
-    "contributor": "git-contributor",
-    "test": "node--test && find-duplicated-property-keys -s package.json",
-    "ci": "npm run lint && c8 -r text-summary -r json-summary -r json -r lcov npm test",
+    "test": "node --test && find-duplicated-property-keys -s package.json",
+    "preci": "npm run lint",
+    "ci": "npm test",
     "lint": "git log -1 --pretty=format:\"%s\" | commitlint"
   },
   "husky": {
@@ -20,11 +20,8 @@
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-angular": "^9.0.1",
-    "c8": "^7.11.3",
     "find-duplicated-property-keys": "^1.2.7",
-    "git-contributor": "2",
-    "husky": "^4.2.5",
-    "test": "^3.0.0"
+    "husky": "^4.2.5"
   },
   "repository": {
     "type": "git",
@@ -78,25 +75,25 @@
         "version": "18.20.6",
         "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
       },
-      ">= 20.0.0 < 20.19.2": {
-        "version": "20.19.2",
-        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
+      ">= 20.0.0 < 20.19.4": {
+        "version": "20.19.4",
+        "reason": "https://nodejs.org/en/blog/vulnerability/july-2025-security-releases"
       },
       ">= 21.0.0 < 21.7.2": {
         "version": "21.7.2",
         "reason": "https://nodejs.org/en/blog/vulnerability/april-2024-security-releases/"
       },
-      ">= 22.0.0 < 22.15.1": {
-        "version": "22.15.1",
-        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
+      ">= 22.0.0 < 22.17.1": {
+        "version": "22.17.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/july-2025-security-releases"
       },
       ">= 23.0.0 < 23.11.1": {
         "version": "23.11.1",
         "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
       },
-      ">= 24.0.0 < 24.0.2": {
-        "version": "24.0.2",
-        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
+      ">= 24.0.0 < 24.4.1": {
+        "version": "24.4.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/july-2025-security-releases"
       }
     },
     "unsafe-alinode-versions": {
