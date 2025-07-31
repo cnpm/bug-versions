@@ -1,7 +1,8 @@
-const assert = require('assert');
-const test = require('test');
+const assert = require('node:assert');
+const test = require('node:test');
+
 const bugVersions = require('..');
-const pkg = require('../package');
+const pkg = require('../package.json');
 
 test('should get bug-versions', () => {
   let pkgCount = 0;
