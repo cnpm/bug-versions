@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.115.0](https://github.com/cnpm/bug-versions/compare/v1.114.0...v1.115.0) (2025-07-31)
+
+
+### Features
+
+* node.js 2025-07-15 security releases ([#274](https://github.com/cnpm/bug-versions/issues/274)) ([3d0069e](https://github.com/cnpm/bug-versions/commit/3d0069ef149b0ae35f3ce8bb3a479d1cbb7cdd7b))
+
 ## [1.114.0](https://github.com/cnpm/bug-versions/compare/v1.113.0...v1.114.0) (2025-07-19)
 
 
