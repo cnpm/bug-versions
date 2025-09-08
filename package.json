@@ -1,9 +1,11 @@
 {
   "name": "bug-versions",
-  "version": "1.115.0",
+  "version": "1.115.1",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "node --test && find-duplicated-property-keys -s package.json",
     "preci": "npm run lint",
@@ -1368,4 +1370,3 @@
     }
   }
 }
-

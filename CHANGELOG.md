@@ -1,5 +1,11 @@
 # Changelog
 
+## <small>1.115.1 (2025-09-08)</small>
+
+* chore: add permissions to release ([05c3648](https://github.com/cnpm/bug-versions/commit/05c3648))
+* chore: use npm trusted publisher ([5743672](https://github.com/cnpm/bug-versions/commit/5743672))
+* fix: qix (#275) ([f8f40fd](https://github.com/cnpm/bug-versions/commit/f8f40fd)), closes [#275](https://github.com/cnpm/bug-versions/issues/275)
+
 ## [1.115.0](https://github.com/cnpm/bug-versions/compare/v1.114.0...v1.115.0) (2025-07-31)
 
 
