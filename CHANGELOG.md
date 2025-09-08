@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.115.2 (2025-09-08)</small>
+
+* fix: change npm pkg url ([e744e85](https://github.com/cnpm/bug-versions/commit/e744e85))
+
 ## <small>1.115.1 (2025-09-08)</small>
 
 * chore: add permissions to release ([05c3648](https://github.com/cnpm/bug-versions/commit/05c3648))
