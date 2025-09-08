@@ -3,9 +3,7 @@
   "version": "1.115.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "scripts": {
     "test": "node --test && find-duplicated-property-keys -s package.json",
     "preci": "npm run lint",
@@ -1276,7 +1274,98 @@
           "version": "5.2.0",
           "reason": "https://github.com/fb55/css-select/issues/1590"
         }
+      },
+      "color-name": {
+        "2.0.1": {
+          "version": "2.0.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "strip-ansi": {
+        "7.1.1": {
+          "version": "7.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "color-convert": {
+        "3.1.1": {
+          "version": "3.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "ansi-styles": {
+        "6.2.2": {
+          "version": "6.2.1",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "ansi-regex": {
+        "6.2.1": {
+          "version": "6.2.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "supports-color": {
+        "10.2.1": {
+          "version": "10.2.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "wrap-ansi": {
+        "9.0.1": {
+          "version": "9.0.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "is-arrayish": {
+        "0.3.3": {
+          "version": "0.3.2",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "color": {
+        "5.0.1": {
+          "version": "5.0.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "color-string": {
+        "2.1.1": {
+          "version": "2.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "has-ansi": {
+        "6.0.1": {
+          "version": "6.0.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "backslash": {
+        "0.2.1": {
+          "version": "0.2.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "error-ex": {
+        "1.3.3": {
+          "version": "1.3.2",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "slice-ansi": {
+        "7.1.1": {
+          "version": "7.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "simple-swizzle": {
+        "0.2.3": {
+          "version": "0.2.2",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
       }
     }
   }
 }
+
