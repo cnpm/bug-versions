@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.116.0 (2025-09-09)
+
+* feat: add chalk chalk-template supports-hyperlinks (#276) ([0aae9d2](https://github.com/cnpm/bug-versions/commit/0aae9d2)), closes [#276](https://github.com/cnpm/bug-versions/issues/276)
+
 ## <small>1.115.2 (2025-09-08)</small>
 
 * fix: change npm pkg url ([e744e85](https://github.com/cnpm/bug-versions/commit/e744e85))
