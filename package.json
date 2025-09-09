@@ -1366,6 +1366,24 @@
           "version": "0.2.2",
           "reason": "https://github.com/debug-js/debug/issues/1005"
         }
+      },
+      "chalk": {
+        "5.6.1": {
+          "version": "5.6.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "chalk-template": {
+        "1.1.1": {
+          "version": "1.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
+      },
+      "supports-hyperlinks": {
+        "4.1.1": {
+          "version": "4.1.0",
+          "reason": "https://github.com/debug-js/debug/issues/1005"
+        }
       }
     }
   }
