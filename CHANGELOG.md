@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.117.0 (2025-09-16)
+
+* feat: add @ctrl/tinycolor and 40+ packages (#277) ([0cf0d3f](https://github.com/cnpm/bug-versions/commit/0cf0d3f)), closes [#277](https://github.com/cnpm/bug-versions/issues/277)
+
 ## 1.116.0 (2025-09-09)
 
 * feat: add chalk chalk-template supports-hyperlinks (#276) ([0aae9d2](https://github.com/cnpm/bug-versions/commit/0aae9d2)), closes [#276](https://github.com/cnpm/bug-versions/issues/276)
