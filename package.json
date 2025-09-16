@@ -1527,7 +1527,7 @@
       },
       "@nativescript-community/text": {
         "1.6.13": {
-          "version": "1.6.9",
+          "version": "1.6.8",
           "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
         }
       },
