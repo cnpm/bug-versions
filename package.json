@@ -1384,6 +1384,254 @@
           "version": "4.1.0",
           "reason": "https://github.com/debug-js/debug/issues/1005"
         }
+      },
+      "angulartics2": {
+        "14.1.2": {
+          "version": "14.1.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/deluge": {
+        "7.2.2": {
+          "version": "7.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/golang-template": {
+        "1.4.3": {
+          "version": "1.4.1",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/magnet-link": {
+        "4.0.4": {
+          "version": "4.0.2",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/ngx-codemirror": {
+        "7.0.2": {
+          "version": "7.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/ngx-csv": {
+        "6.0.2": {
+          "version": "6.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/ngx-emoji-mart": {
+        "9.2.2": {
+          "version": "9.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/ngx-rightclick": {
+        "4.0.2": {
+          "version": "4.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/qbittorrent": {
+        "9.7.2": {
+          "version": "9.7.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/react-adsense": {
+        "2.0.2": {
+          "version": "2.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/shared-torrent": {
+        "6.3.2": {
+          "version": "6.3.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/tinycolor": {
+        "4.1.1": {
+          "version": "4.1.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        },
+        "4.1.2": {
+          "version": "4.1.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/torrent-file": {
+        "4.1.2": {
+          "version": "4.1.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/transmission": {
+        "7.3.1": {
+          "version": "7.3.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@ctrl/ts-base32": {
+        "4.0.2": {
+          "version": "4.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "encounter-playground": {
+        "0.0.5": {
+          "version": "0.0.4",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "json-rules-engine-simplified": {
+        "0.2.1": {
+          "version": "0.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        },
+        "0.2.2": {
+          "version": "0.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        },
+        "0.2.3": {
+          "version": "0.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        },
+        "0.2.4": {
+          "version": "0.2.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "koa2-swagger-ui": {
+        "5.11.1": {
+          "version": "5.11.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        },
+        "5.11.2": {
+          "version": "5.11.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/gesturehandler": {
+        "2.0.35": {
+          "version": "2.0.34",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/sentry": {
+        "4.6.43": {
+          "version": "4.6.42",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/text": {
+        "1.6.13": {
+          "version": "1.6.8",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-collectionview": {
+        "6.0.6": {
+          "version": "6.0.5",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-drawer": {
+        "0.1.30": {
+          "version": "0.1.29",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-image": {
+        "4.5.6": {
+          "version": "4.5.5",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-material-bottomsheet": {
+        "7.2.72": {
+          "version": "7.2.71",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-material-core": {
+        "7.2.76": {
+          "version": "7.2.71",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "@nativescript-community/ui-material-core-tabs": {
+        "7.2.76": {
+          "version": "7.2.71",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "ngx-color": {
+        "10.0.2": {
+          "version": "10.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "ngx-toastr": {
+        "19.0.2": {
+          "version": "19.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "ngx-trend": {
+        "8.0.1": {
+          "version": "8.0.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "react-complaint-image": {
+        "0.0.35": {
+          "version": "0.0.34",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "react-jsonschema-form-conditionals": {
+        "0.3.21": {
+          "version": "0.3.20",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "react-jsonschema-form-extras": {
+        "1.0.4": {
+          "version": "1.0.3",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "rxnt-authentication": {
+        "0.0.6": {
+          "version": "0.0.5",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "rxnt-healthchecks-nestjs": {
+        "1.0.5": {
+          "version": "1.0.4",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "rxnt-kue": {
+        "1.0.7": {
+          "version": "1.0.6",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "swc-plugin-component-annotate": {
+        "1.9.2": {
+          "version": "1.9.0",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
+      },
+      "ts-gaussian": {
+        "3.0.6": {
+          "version": "3.0.4",
+          "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
+        }
       }
     }
   }
