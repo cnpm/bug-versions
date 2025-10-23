@@ -18,8 +18,8 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^9.0.1",
-    "@commitlint/config-angular": "^9.0.1",
+    "@commitlint/cli": "^20.0.0",
+    "@commitlint/config-angular": "^20.0.0",
     "find-duplicated-property-keys": "^1.2.7",
     "husky": "^9.0.0"
   },
