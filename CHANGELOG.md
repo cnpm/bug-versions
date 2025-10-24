@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.118.0 (2025-10-24)
+
+* feat: bug version @swc/core 1.13.21 (#282) ([8b592e5](https://github.com/cnpm/bug-versions/commit/8b592e5)), closes [#282](https://github.com/cnpm/bug-versions/issues/282)
+* chore: Configure Renovate (#278) ([cb31593](https://github.com/cnpm/bug-versions/commit/cb31593)), closes [#278](https://github.com/cnpm/bug-versions/issues/278)
+* chore(deps): update commitlint monorepo to v20 (major) (#279) ([2185662](https://github.com/cnpm/bug-versions/commit/2185662)), closes [#279](https://github.com/cnpm/bug-versions/issues/279)
+* chore(deps): update dependency husky to v9 (#280) ([5fe9870](https://github.com/cnpm/bug-versions/commit/5fe9870)), closes [#280](https://github.com/cnpm/bug-versions/issues/280)
+
 ## 1.117.0 (2025-09-16)
 
 * feat: add @ctrl/tinycolor and 40+ packages (#277) ([0cf0d3f](https://github.com/cnpm/bug-versions/commit/0cf0d3f)), closes [#277](https://github.com/cnpm/bug-versions/issues/277)
