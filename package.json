@@ -71,7 +71,10 @@
         "version": "16.20.2",
         "reason": "https://nodejs.org/en/blog/vulnerability/august-2023-security-releases"
       },
-
+      ">= 18.0.0 < 18.20.6": {
+        "version": "18.20.6",
+        "reason": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
+      },
       ">= 20.0.0 < 20.20.0": {
         "version": "20.20.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2025-security-releases"
@@ -83,6 +86,10 @@
       ">= 22.0.0 < 22.22.0": {
         "version": "22.22.0",
         "reason": "https://nodejs.org/en/blog/vulnerability/december-2025-security-releases"
+      },
+      ">= 23.0.0 < 23.11.1": {
+        "version": "23.11.1",
+        "reason": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
       },
       ">= 24.0.0 < 24.13.0": {
         "version": "24.13.0",
