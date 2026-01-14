@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.119.0 (2026-01-14)
+
+* feat: update node.js unsafe versions for 2026-01-13 security releases (#284) ([f20c237](https://github.com/cnpm/bug-versions/commit/f20c237)), closes [#284](https://github.com/cnpm/bug-versions/issues/284) [cnpm/bug-versions#283](https://github.com/cnpm/bug-versions/issues/283)
+
 ## 1.118.0 (2025-10-24)
 
 * feat: bug version @swc/core 1.13.21 (#282) ([8b592e5](https://github.com/cnpm/bug-versions/commit/8b592e5)), closes [#282](https://github.com/cnpm/bug-versions/issues/282)
