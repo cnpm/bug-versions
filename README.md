@@ -8,11 +8,11 @@
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/cnpm/bug-versions)
 
 [npm-image]: https://img.shields.io/npm/v/bug-versions.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/bug-versions
+[npm-url]: https://npmx.dev/package/bug-versions
 [snyk-image]: https://snyk.io/test/npm/bug-versions/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/bug-versions
 [download-image]: https://img.shields.io/npm/dm/bug-versions.svg?style=flat-square
-[download-url]: https://npmjs.org/package/bug-versions
+[download-url]: https://npmx.dev/package/bug-versions
 
 collect all bug versions on npm package.
 
