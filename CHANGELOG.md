@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.120.0 (2026-03-31)
+
+* feat: revise axios version reasons in package.json (#287) ([00668b1](https://github.com/cnpm/bug-versions/commit/00668b1)), closes [#287](https://github.com/cnpm/bug-versions/issues/287)
+* Update axios version and reason in package.json (#286) ([0197703](https://github.com/cnpm/bug-versions/commit/0197703)), closes [#286](https://github.com/cnpm/bug-versions/issues/286)
+* chore: map npm package link to npmx.dev (#285) ([8d69473](https://github.com/cnpm/bug-versions/commit/8d69473)), closes [#285](https://github.com/cnpm/bug-versions/issues/285)
+
 ## 1.119.0 (2026-01-14)
 
 * feat: update node.js unsafe versions for 2026-01-13 security releases (#284) ([f20c237](https://github.com/cnpm/bug-versions/commit/f20c237)), closes [#284](https://github.com/cnpm/bug-versions/issues/284) [cnpm/bug-versions#283](https://github.com/cnpm/bug-versions/issues/283)
