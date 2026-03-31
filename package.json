@@ -1635,6 +1635,12 @@
           "reason": "https://socket.dev/blog/tinycolor-supply-chain-attack-affects-40-packages"
         }
       },
+      "axios": {
+        "1.14.1": {
+          "version": "1.14.0",
+          "reason": "https://github.com/axios/axios/issues/10596"
+        }
+      },
       "ts-gaussian": {
         "3.0.6": {
           "version": "3.0.4",
