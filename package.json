@@ -1,6 +1,6 @@
 {
   "name": "bug-versions",
-  "version": "1.119.0",
+  "version": "1.120.0",
   "description": "collect all bug versions on npm package",
   "main": "index.js",
   "files": [
@@ -1638,7 +1638,11 @@
       "axios": {
         "1.14.1": {
           "version": "1.14.0",
-          "reason": "https://github.com/axios/axios/issues/10596"
+          "reason": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+        },
+        "0.30.4": {
+          "version": "0.30.3",
+          "reason": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
         }
       },
       "ts-gaussian": {
