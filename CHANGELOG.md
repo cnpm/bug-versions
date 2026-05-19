@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.121.0 (2026-05-19)
+
+* feat: add antv-block incident block list for 317 packages (#291) ([42d56d3](https://github.com/cnpm/bug-versions/commit/42d56d3)), closes [#291](https://github.com/cnpm/bug-versions/issues/291) [#290](https://github.com/cnpm/bug-versions/issues/290) [#290](https://github.com/cnpm/bug-versions/issues/290)
+* chore: add PR title check workflow (#288) ([a79e821](https://github.com/cnpm/bug-versions/commit/a79e821)), closes [#288](https://github.com/cnpm/bug-versions/issues/288)
+
 ## 1.120.0 (2026-03-31)
 
 * feat: revise axios version reasons in package.json (#287) ([00668b1](https://github.com/cnpm/bug-versions/commit/00668b1)), closes [#287](https://github.com/cnpm/bug-versions/issues/287)
