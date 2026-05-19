@@ -4193,11 +4193,11 @@
       },
       "@antv/x6-common": {
         "2.1.17": {
-          "version": "3.0.0",
+          "version": "2.0.17",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.2.17": {
-          "version": "3.0.0",
+          "version": "2.0.17",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
@@ -4213,11 +4213,11 @@
       },
       "@antv/x6-geometry": {
         "2.1.5": {
-          "version": "3.0.0",
+          "version": "2.0.5",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.2.5": {
-          "version": "3.0.0",
+          "version": "2.0.5",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
@@ -4233,101 +4233,101 @@
       },
       "@antv/x6-plugin-dnd": {
         "2.2.1": {
-          "version": "3.0.0",
+          "version": "2.1.1",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.3.1": {
-          "version": "3.0.0",
+          "version": "2.1.1",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-export": {
         "2.2.6": {
-          "version": "3.0.0",
+          "version": "2.1.6",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.3.6": {
-          "version": "3.0.0",
+          "version": "2.1.6",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-history": {
         "2.3.4": {
-          "version": "3.0.0",
+          "version": "2.2.4",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.4.4": {
-          "version": "3.0.0",
+          "version": "2.2.4",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-keyboard": {
         "2.3.3": {
-          "version": "3.0.0",
+          "version": "2.2.3",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.4.3": {
-          "version": "3.0.0",
+          "version": "2.2.3",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-minimap": {
         "2.1.7": {
-          "version": "3.0.0",
+          "version": "2.0.7",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.2.7": {
-          "version": "3.0.0",
+          "version": "2.0.7",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-scroller": {
         "2.1.10": {
-          "version": "3.0.0",
+          "version": "2.0.10",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.2.10": {
-          "version": "3.0.0",
+          "version": "2.0.10",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-selection": {
         "2.3.2": {
-          "version": "3.0.0",
+          "version": "2.2.2",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.4.2": {
-          "version": "3.0.0",
+          "version": "2.2.2",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-snapline": {
         "2.2.7": {
-          "version": "3.0.0",
+          "version": "2.1.7",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.3.7": {
-          "version": "3.0.0",
+          "version": "2.1.7",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-stencil": {
         "2.2.5": {
-          "version": "3.0.0",
+          "version": "2.1.5",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.3.5": {
-          "version": "3.0.0",
+          "version": "2.1.5",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
       "@antv/x6-plugin-transform": {
         "2.2.8": {
-          "version": "3.0.0",
+          "version": "2.1.8",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.3.8": {
-          "version": "3.0.0",
+          "version": "2.1.8",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
@@ -4343,11 +4343,11 @@
       },
       "@antv/x6-react-components": {
         "2.1.9": {
-          "version": "3.0.0",
+          "version": "2.0.9",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         },
         "2.2.9": {
-          "version": "3.0.0",
+          "version": "2.0.9",
           "reason": "antv-block list, redirect to last clean version before 2026-05-19"
         }
       },
